@@ -1,7 +1,7 @@
 {
   "business": { 
     "japanese_name":"ビジネス", 
-    "enumulations_group": "business", 
+    "enumerations_group": "business", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -9,7 +9,7 @@
   },
   "politics": { 
     "japanese_name":"政治", 
-    "enumulations_group": "politics", 
+    "enumerations_group": "politics", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -17,7 +17,7 @@
   },
   "technology": { 
     "japanese_name":"テクノロジー", 
-    "enumulations_group": "technology", 
+    "enumerations_group": "technology", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -25,7 +25,7 @@
   },
   "economy": { 
     "japanese_name":"経済", 
-    "enumulations_group": "economy", 
+    "enumerations_group": "economy", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -33,7 +33,7 @@
   },
   "world": { 
     "japanese_name":"世界", 
-    "enumulations_group": "world", 
+    "enumerations_group": "world", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -41,7 +41,7 @@
   },
   "equity_investment": { 
     "japanese_name":"株式投資", 
-    "enumulations_group": "equity_investment", 
+    "enumerations_group": "equity_investment", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -49,7 +49,7 @@
   },
   "real_estate_investment": { 
     "japanese_name":"不動産投資", 
-    "enumulations_group": "real_estate_investment", 
+    "enumerations_group": "real_estate_investment", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -57,7 +57,7 @@
   },
   "fx_trade": { 
     "japanese_name":"FX", 
-    "enumulations_group": "fx_trade", 
+    "enumerations_group": "fx_trade", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "is_formal": true, 
@@ -65,7 +65,7 @@
   },
   "cryptocurrency": { 
     "japanese_name":"仮想通貨", 
-    "enumulations_group": "cryptocurrency", 
+    "enumerations_group": "cryptocurrency", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "is_formal": true, 
@@ -73,7 +73,7 @@
   },
   "military": { 
     "japanese_name":"軍事", 
-    "enumulations_group": "military", 
+    "enumerations_group": "military", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -95,7 +95,7 @@
   },
   "necessity": { 
     "japanese_name":"日用品", 
-    "enumulations_group": "necessity", 
+    "enumerations_group": "necessity", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -103,7 +103,7 @@
   },
   "lifehack": { 
     "japanese_name":"ライフハック", 
-    "enumulations_group":"lifehack", 
+    "enumerations_group":"lifehack", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -111,7 +111,7 @@
   },
   "beauty": { 
     "japanese_name":"美容",
-    "enumulations_group": "beauty", 
+    "enumerations_group": "beauty", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -119,7 +119,7 @@
   },
   "mobility": { 
     "japanese_name":"自動車",
-    "enumulations_group": "beauty", 
+    "enumerations_group": "beauty", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -127,7 +127,7 @@
   },
   "gadget": { 
     "japanese_name":"ガジェット", 
-    "enumulations_group": "gadget", 
+    "enumerations_group": "gadget", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -135,7 +135,7 @@
   },
   "sports": { 
     "japanese_name":"スポーツ", 
-    "enumulations_group": "sports", 
+    "enumerations_group": "sports", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -143,7 +143,7 @@
   },
   "male_love": { 
     "japanese_name":"男性恋愛", 
-    "enumulations_group": "love", 
+    "enumerations_group": "love", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -151,7 +151,7 @@
   },
   "female_love": { 
     "japanese_name":"女性恋愛", 
-    "enumulations_group": "love", 
+    "enumerations_group": "love", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -159,7 +159,7 @@
   },
   "womens_fashion": { 
     "japanese_name":"女性ファッション",
-    "enumulations_group": "fashion", 
+    "enumerations_group": "fashion", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -167,7 +167,7 @@
   },
   "mens_fashion": { 
     "japanese_name":"男性ファッション",
-    "enumulations_group": "fashion", 
+    "enumerations_group": "fashion", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -175,7 +175,7 @@
   },
   "money_finance": { 
     "japanese_name":"家計", 
-    "enumulations_group": "money_finance", 
+    "enumerations_group": "money_finance", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -183,7 +183,7 @@
   },
   "cooking": { 
     "japanese_name":"料理", 
-    "enumulations_group": "cooking", 
+    "enumerations_group": "cooking", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -191,7 +191,7 @@
   },
   "gourmet": { 
     "japanese_name":"グルメ", 
-    "enumulations_group": "gourmet", 
+    "enumerations_group": "gourmet", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -199,7 +199,7 @@
   },
   "it_tool": { 
     "japanese_name":"ITツール", 
-    "enumulations_group": "it_tool", 
+    "enumerations_group": "it_tool", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -207,7 +207,7 @@
   },
   "sweets_gourmet": { 
     "japanese_name":"スイーツグルメ", 
-    "enumulations_group": "sweets_gourmet", 
+    "enumerations_group": "sweets_gourmet", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "is_formal": true, 
@@ -215,7 +215,7 @@
   },
   "new_job": { 
     "japanese_name":"副業・自営業", 
-    "enumulations_group": "new_job", 
+    "enumerations_group": "new_job", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": false,
@@ -223,7 +223,7 @@
   },
   "career": { 
     "japanese_name":"キャリア", 
-    "enumulations_group": "career", 
+    "enumerations_group": "career", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
@@ -231,7 +231,7 @@
   },
   "entertainment": { 
     "japanese_name":"エンタメ", 
-    "enumulations_group": "entertainment", 
+    "enumerations_group": "entertainment", 
     "is_started": false, 
     "is_default": true, 
     "is_formal": false,
@@ -240,7 +240,7 @@
 
   "soccer": {
     "japanese_name": "サッカー", 
-    "enumulations_group": "soccer", 
+    "enumerations_group": "soccer", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "parent_category": "sports", 
@@ -249,7 +249,7 @@
   },
   "baseball": {
     "japanese_name": "野球", 
-    "enumulations_group": "baseball", 
+    "enumerations_group": "baseball", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "parent_category": "sports", 
@@ -258,7 +258,7 @@
   },
   "sweets_cooking": {
     "japanese_name": "スイーツ作り", 
-    "enumulations_group": "sweets_cooking", 
+    "enumerations_group": "sweets_cooking", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "parent_category": "cooking", 
@@ -267,7 +267,7 @@
   },
   "bread_cooking": {
     "japanese_name": "パン作り", 
-    "enumulations_group": "bread_cooking", 
+    "enumerations_group": "bread_cooking", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "parent_category": "cooking", 
@@ -276,7 +276,7 @@
   },
   "reselling": {
     "japanese_name": "転売・せどり", 
-    "enumulations_group": "reselling", 
+    "enumerations_group": "reselling", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "parent_category": "new_job", 
@@ -285,7 +285,7 @@
   },
   "sns": {
     "japanese_name": "SNS", 
-    "enumulations_group": "sns", 
+    "enumerations_group": "sns", 
     "started_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": false, 
     "parent_category": "new_job", 

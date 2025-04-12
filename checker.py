@@ -8,11 +8,11 @@ valid_category_names = list(categories_data.keys())
 with open('data/channels.json', 'r', encoding='utf-8') as f:
     channels_data = json.load(f)
 
-with open('data/enumulations.json', 'r', encoding='utf-8') as f:
-    enumulations = json.load(f)
+with open('data/enumerations.json', 'r', encoding='utf-8') as f:
+    enumerations = json.load(f)
 
-with open('data/enumulations_groups.json', 'r', encoding='utf-8') as f:
-    enumulation_groups = json.load(f)
+with open('data/category_enumerations.json', 'r', encoding='utf-8') as f:
+    category_enumerations = json.load(f)
 
 invalid_urls = []
 unique_invalid_categories = []
@@ -49,8 +49,8 @@ if duplicate_urls:
 else:
     print("channels.json に重複URLはありません。")
 
-for group_name, keys in enumulation_groups.items():
-    missing_keys = [key for key in keys if key not in enumulations]
+for group_name, keys in category_enumerations.items():
+    missing_keys = [key for key in keys if key not in enumerations]
     if missing_keys:
         invalid_groups[group_name] = missing_keys
 
@@ -59,4 +59,4 @@ if invalid_groups:
     for group, missing in invalid_groups.items():
         print(f"{group} に存在しないキー: {missing}")
 else:
-    print("すべてのグループのキーはenumulations.jsonに存在しています。")
+    print("すべてのグループのキーはenumerations.jsonに存在しています。")
