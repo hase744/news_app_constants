@@ -88,7 +88,7 @@
   {"url": "https://www.youtube.com/@Ch-dp9or", "categories": "technology"},
   {"url": "https://www.youtube.com/@nex.kougyo", "categories": "technology"},
   {"url": "https://www.youtube.com/@stec1124", "categories": "technology"},
-  {"url": "https://youtube.com/@semiconductor-industry", "categories": "technology"},
+  {"url": "https://www.youtube.com/@semiconductor-industry", "categories": "technology"},
   {"url": "https://www.youtube.com/@AMANOSCOPE", "categories": "technology business"},
   {"url": "https://www.youtube.com/@remote-work", "categories": "technology business"},
   {"url": "https://www.youtube.com/@bouncy", "categories": "technology business"},
@@ -247,6 +247,10 @@
   {"url": "https://www.youtube.com/@hagu-meta", "categories": "game"},
   {"url": "https://www.youtube.com/@user-mh3um2us2k", "categories": "game"},
   {"url": "https://www.youtube.com/@szk_miiito", "categories": "game"},
+  {"url": "https://www.youtube.com/@switch-hannousyu", "categories": "game"},
+  {"url": "https://www.youtube.com/@話題ゲーム", "categories": "game"},
+  {"url": "https://www.youtube.com/@nitendo_information_bureau", "categories": "game"},
+  {"url": "https://www.youtube.com/@kuma.3", "categories": "game gadget"},
   
   {"url": "https://www.youtube.com/@hiyoko246", "categories": "trend"},
   {"url": "https://www.youtube.com/@sakki-tvch", "categories": "trend"},
@@ -1080,6 +1084,7 @@
   {"url": "https://www.youtube.com/@user-ux2vq9tg5b", "categories": "new_job video_editor"},
   {"url": "https://www.youtube.com/@Kotaro-channel0467", "categories": "new_job video_editor"},
   {"url": "https://www.youtube.com/@snsdouga", "categories": "sns"},
+  {"url": "https://www.youtube.com/@YoutubeMarketing-kanno", "categories": "new_job sns"},
   {"url": "https://www.youtube.com/@youtubed1625", "categories": "new_job sns"},
   {"url": "https://www.youtube.com/@snskajiyan", "categories": "new_job sns"},
   {"url": "https://www.youtube.com/@ISNS-rd3nx", "categories": "new_job sns"},
@@ -1159,6 +1164,11 @@
   {"url": "https://www.youtube.com/@docomoAppsAndReview", "categories": "it_tool"},
   {"url": "https://www.youtube.com/@jun_apple.phone_prince", "categories": "it_tool"},
   {"url": "https://www.youtube.com/@video-fun", "categories": "it_tool"},
+  {"url": "https://www.youtube.com/@PhD-genki", "categories": "it_tool"},
+  {"url": "https://www.youtube.com/@chaen-ai-lab", "categories": "it_tool"},
+  {"url": "https://www.youtube.com/@AIツールの達人", "categories": "it_tool"},
+  {"url": "https://www.youtube.com/@ham_ai_skill", "categories": "it_tool"},
+  {"url": "https://www.youtube.com/@iketomo-ch", "categories": "it_tool technology business", "absolute": "it_tool"},
   {"url": "https://www.youtube.com/@webshokutv", "categories": "new_job technology it_tool"},
   {"url": "https://www.youtube.com/@AIAIChatGPT-cj4sh", "categories": "it_tool technology"},
   {"url": "https://www.youtube.com/@kajigaya", "categories": "it_tool gadget"},
@@ -1173,6 +1183,7 @@
   {"url": "https://www.youtube.com/@kadentalist", "categories": "it_tool gadget"},
   {"url": "https://www.youtube.com/@yu_icreatv11", "categories": "it_tool gadget"},
   {"url": "https://www.youtube.com/@ITMAJIRUSHI", "categories": "it_tool gadget"},
+  {"url": "https://www.youtube.com/@hinataconsulting", "categories": "it_tool business"},
 
   {"url": "https://www.youtube.com/@abemutsuki", "categories": "new_job"},
   {"url": "https://www.youtube.com/@mumei_ai", "categories": "new_job"},
@@ -1207,8 +1218,6 @@
   {"url": "https://www.youtube.com/@SmakkoCashless", "categories": "money_finance"},
   {"url": "https://www.youtube.com/@lovehawks", "categories": "money_finance"},
   {"url": "https://www.youtube.com/@poisuke123", "categories": "money_finance"},
-
-
 
   {"url": "https://www.youtube.com/@hiroyukikirinuki", "categories": "hiroyuki trend"},
   {"url": "https://www.youtube.com/@hiroyukimind", "categories": "hiroyuki"},
@@ -1606,6 +1615,7 @@
   {"url": "https://www.youtube.com/@NipponFoundationPR", "categories": "documentary"},
   {"url": "https://www.youtube.com/@cbc_docu", "categories": "documentary"},
   {"url": "https://www.youtube.com/@gairokuch", "categories": "documentary"},
+  {"url": "https://www.youtube.com/@fuji_doc", "categories": "documentary"},
   {"url": "https://www.youtube.com/@Human.Video.Channel", "categories": "documentary life"},
   
 
@@ -1663,7 +1673,7 @@
   {"url": "https://www.youtube.com/@user-jg2jr6kp7l", "categories": "male_love"},
   {"url": "https://www.youtube.com/@namitube", "categories": "male_love"},
   {"url": "https://www.youtube.com/@ch-hb4wi", "categories": "male_love"},
-  {"url": "https://youtube.com/@user-ev7zh8vp4u", "categories": "male_love"},
+  {"url": "https://www.youtube.com/@user-ev7zh8vp4u", "categories": "male_love"},
   {"url": "https://www.youtube.com/@otokonomondai", "categories": "male_love"},
   {"url": "https://www.youtube.com/@user-uw1vj5gg7s", "categories": "male_love"},
   {"url": "https://www.youtube.com/@rietv8602", "categories": "male_love"},
@@ -1724,7 +1734,7 @@
   {"url": "https://www.youtube.com/@yurugakuto", "categories": "tidbit"},
   {"url": "https://www.youtube.com/@yuruseitai", "categories": "tidbit"},
   {"url": "https://www.youtube.com/@yurutenmon", "categories": "tidbit"},
-  {"url": "https://youtube.com/@tsundoku-ch", "categories": "tidbit"},
+  {"url": "https://www.youtube.com/@tsundoku-ch", "categories": "tidbit"},
   {"url": "https://www.youtube.com/@saraba_tvo_channel", "categories": "tidbit life"},
   {"url": "https://www.youtube.com/@yurugengo", "categories": "tidbit"},
   {"url": "https://www.youtube.com/@KDDI_LIBERARY", "categories": "tidbit business", "absolute": "tidbit"}
