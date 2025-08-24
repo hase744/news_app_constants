@@ -1,0 +1,47 @@
+{
+  "news": {
+    "categories": ["business", "politics", "economy", "world", "trend", "sports"],
+    "japanese_name": "一般ニュース",
+    "name": "news"
+  },
+  "science_tech": {
+    "categories": ["technology", "gadget", "it_tool", "mobility", "military"],
+    "japanese_name": "科学・テクノロジー",
+    "name": "science_tech"
+  },
+  "finance": {
+    "categories": ["equity_investment", "real_estate_investment", "fx_trade", "cryptocurrency", "money_finance"],
+    "japanese_name": "金融・投資",
+    "name": "finance"
+  },
+  "business_career": {
+    "categories": ["business", "career", "reselling", "new_job"],
+    "japanese_name": "ビジネス・キャリア",
+    "name": "business_career"
+  },
+  "love_fashion": {
+    "categories": ["male_love", "female_love", "womens_fashion", "mens_fashion", "beauty"],
+    "japanese_name": "恋愛・ファッション",
+    "name": "love_fashion"
+  },
+  "food_cooking": {
+    "categories": ["cooking", "gourmet", "sweets_gourmet", "sweets_cooking", "bread_cooking"],
+    "japanese_name": "食・料理",
+    "name": "food_cooking"
+  },
+  "entertainment_hobby": {
+    "categories": ["game", "entertainment", "sns"],
+    "japanese_name": "エンタメ・趣味",
+    "name": "entertainment_hobby"
+  },
+  "sports": {
+    "categories": ["sports", "soccer", "baseball"],
+    "japanese_name": "スポーツ",
+    "name": "sports"
+  },
+  "lifestyle": {
+    "categories": ["necessity", "lifehack", "beauty"],
+    "japanese_name": "ライフスタイル",
+    "name": "lifestyle"
+  }
+}
