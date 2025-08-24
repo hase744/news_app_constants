@@ -14,6 +14,9 @@ with open('data/enumerations.json', 'r', encoding='utf-8') as f:
 with open('data/category_enumerations.json', 'r', encoding='utf-8') as f:
     category_enumerations = json.load(f)
 
+with open('data/category_groups.json', 'r', encoding='utf-8') as f:
+    category_groups = json.load(f)
+
 invalid_urls = []
 unique_invalid_categories = []
 print(valid_category_names)
@@ -60,3 +63,18 @@ if invalid_groups:
         print(f"{group} に存在しないキー: {missing}")
 else:
     print("すべてのグループのキーはenumerations.jsonに存在しています。")
+
+invalid_category_groups = {}
+
+for group_name, group_data in category_groups.items():
+    categories = group_data.get("categories", [])
+    missing = [cat for cat in categories if cat not in valid_category_names]
+    if missing:
+        invalid_category_groups[group_name] = missing
+
+if invalid_category_groups:
+    print("以下のcategory_groups.jsonに無効なカテゴリが含まれています:")
+    for group, missing in invalid_category_groups.items():
+        print(f"{group} に存在しないカテゴリ: {missing}")
+else:
+    print("category_groups.json の全てのカテゴリは categories.json に含まれています。")
