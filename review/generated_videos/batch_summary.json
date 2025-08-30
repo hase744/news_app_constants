@@ -1,0 +1,3602 @@
+{
+  "successes": [
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "ホームラン",
+      "title": "驚異の打撃力！新星・佐藤選手、開幕戦で2本塁打の活躍！",
+      "video": "generated_videos/baseball/ホームラン.mp4",
+      "wav": "generated_videos/baseball/ホームラン.wav",
+      "subtitle_image": "images/generated_videos/baseball/ホームラン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "ピッチャー",
+      "title": "若手投手A、驚異の奪三振率でローテーション入り確実か",
+      "video": "generated_videos/baseball/ピッチャー.mp4",
+      "wav": "generated_videos/baseball/ピッチャー.wav",
+      "subtitle_image": "images/generated_videos/baseball/ピッチャー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "盗塁",
+      "title": "俊足の新人・山田、盗塁成功率向上に期待！",
+      "video": "generated_videos/baseball/盗塁.mp4",
+      "wav": "generated_videos/baseball/盗塁.wav",
+      "subtitle_image": "images/generated_videos/baseball/盗塁_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "打率",
+      "title": "驚異の打率上昇！若手スラッガーA選手の活躍に期待高まる",
+      "video": "generated_videos/baseball/打率.mp4",
+      "wav": "generated_videos/baseball/打率.wav",
+      "subtitle_image": "images/generated_videos/baseball/打率_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "守備力",
+      "title": "驚異の守備力！新鋭・星野選手がチームを牽引する可能性",
+      "video": "generated_videos/baseball/守備力.mp4",
+      "wav": "generated_videos/baseball/守備力.wav",
+      "subtitle_image": "images/generated_videos/baseball/守備力_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "投手戦",
+      "title": "投手戦制したAチーム、Bチームとの接戦を制す！",
+      "video": "generated_videos/baseball/投手戦.mp4",
+      "wav": "generated_videos/baseball/投手戦.wav",
+      "subtitle_image": "images/generated_videos/baseball/投手戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "接戦",
+      "title": "巨人、劇的なサヨナラ勝ち！ 延長10回接戦を制す",
+      "video": "generated_videos/baseball/接戦.mp4",
+      "wav": "generated_videos/baseball/接戦.wav",
+      "subtitle_image": "images/generated_videos/baseball/接戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "逆転劇",
+      "title": "ファイターズ、9回裏ツーアウトからの逆転劇で勝利！",
+      "video": "generated_videos/baseball/逆転劇.mp4",
+      "wav": "generated_videos/baseball/逆転劇.wav",
+      "subtitle_image": "images/generated_videos/baseball/逆転劇_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "日本シリーズ",
+      "title": "巨人の日本シリーズ進出、9割の可能性！投手陣の安定感が鍵",
+      "video": "generated_videos/baseball/日本シリーズ.mp4",
+      "wav": "generated_videos/baseball/日本シリーズ.wav",
+      "subtitle_image": "images/generated_videos/baseball/日本シリーズ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/baseball.json",
+      "keyword": "ワールドシリーズ",
+      "title": "今シーズン、ワールドシリーズ制覇の可能性は？",
+      "video": "generated_videos/baseball/ワールドシリーズ.mp4",
+      "wav": "generated_videos/baseball/ワールドシリーズ.wav",
+      "subtitle_image": "images/generated_videos/baseball/ワールドシリーズ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "美肌ケア",
+      "title": "新成分「アクアセル」配合！驚きの美肌ケア効果に期待",
+      "video": "generated_videos/beauty/美肌ケア.mp4",
+      "wav": "generated_videos/beauty/美肌ケア.wav",
+      "subtitle_image": "images/generated_videos/beauty/美肌ケア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "スキンケア",
+      "title": "画期的新成分「アクアセル」配合！肌の未来を変えるスキンケアが登場か",
+      "video": "generated_videos/beauty/スキンケア.mp4",
+      "wav": "generated_videos/beauty/スキンケア.wav",
+      "subtitle_image": "images/generated_videos/beauty/スキンケア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "ヘアケア",
+      "title": "新成分配合！驚きのヘアケア効果で話題沸騰中",
+      "video": "generated_videos/beauty/ヘアケア.mp4",
+      "wav": "generated_videos/beauty/ヘアケア.wav",
+      "subtitle_image": "images/generated_videos/beauty/ヘアケア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "メイク術",
+      "title": "透明感UP！最新メイク術が美容業界を席巻か？",
+      "video": "generated_videos/beauty/メイク術.mp4",
+      "wav": "generated_videos/beauty/メイク術.wav",
+      "subtitle_image": "images/generated_videos/beauty/メイク術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "美容液",
+      "title": "革新的美容液「リバイタライズX」発売で美容業界に激震！",
+      "video": "generated_videos/beauty/美容液.mp4",
+      "wav": "generated_videos/beauty/美容液.wav",
+      "subtitle_image": "images/generated_videos/beauty/美容液_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "保湿対策",
+      "title": "新成分配合！乾燥肌対策に革命的な保湿クリームが登場！",
+      "video": "generated_videos/beauty/保湿対策.mp4",
+      "wav": "generated_videos/beauty/保湿対策.wav",
+      "subtitle_image": "images/generated_videos/beauty/保湿対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "エイジングケア",
+      "title": "画期的新成分配合！若々しい肌をキープするエイジングケア製品が開発へ",
+      "video": "generated_videos/beauty/エイジングケア.mp4",
+      "wav": "generated_videos/beauty/エイジングケア.wav",
+      "subtitle_image": "images/generated_videos/beauty/エイジングケア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "紫外線対策",
+      "title": "画期的！飲む日焼け止めが美容業界に革命を起こす？",
+      "video": "generated_videos/beauty/紫外線対策.mp4",
+      "wav": "generated_videos/beauty/紫外線対策.wav",
+      "subtitle_image": "images/generated_videos/beauty/紫外線対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "ダイエット",
+      "title": "画期的新ダイエット法「メタボリズム・シフト」に期待高まる",
+      "video": "generated_videos/beauty/ダイエット.mp4",
+      "wav": "generated_videos/beauty/ダイエット.wav",
+      "subtitle_image": "images/generated_videos/beauty/ダイエット_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/beauty.json",
+      "keyword": "ボディケア",
+      "title": "新成分配合！ボディケア革命が起きる？",
+      "video": "generated_videos/beauty/ボディケア.mp4",
+      "wav": "generated_videos/beauty/ボディケア.wav",
+      "subtitle_image": "images/generated_videos/beauty/ボディケア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "パン生地",
+      "title": "新技術でパン生地のグルテン形成が劇的に向上！大幅な時間短縮と食感改善に期待",
+      "video": "generated_videos/bread_cooking/パン生地.mp4",
+      "wav": "generated_videos/bread_cooking/パン生地.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/パン生地_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "発酵時間",
+      "title": "パン生地の発酵時間短縮に新技術！革命的な酵素を発見か？",
+      "video": "generated_videos/bread_cooking/発酵時間.mp4",
+      "wav": "generated_videos/bread_cooking/発酵時間.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/発酵時間_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "焼き色調整",
+      "title": "パンの焼き色調整、AI技術で革命の可能性！",
+      "video": "generated_videos/bread_cooking/焼き色調整.mp4",
+      "wav": "generated_videos/bread_cooking/焼き色調整.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/焼き色調整_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "材料配合",
+      "title": "パン材料配合の新技術、焼き上がりの均一性向上に期待",
+      "video": "generated_videos/bread_cooking/材料配合.mp4",
+      "wav": "generated_videos/bread_cooking/材料配合.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/材料配合_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "捏ね方",
+      "title": "新捏ね方「グルテンマジック」がパン作りに革命を起こす？",
+      "video": "generated_videos/bread_cooking/捏ね方.mp4",
+      "wav": "generated_videos/bread_cooking/捏ね方.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/捏ね方_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "オーブン温度",
+      "title": "家庭用オーブンの温度精度向上、パン作り革命の可能性",
+      "video": "generated_videos/bread_cooking/オーブン温度.mp4",
+      "wav": "generated_videos/bread_cooking/オーブン温度.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/オーブン温度_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "食パンレシピ",
+      "title": "驚きのふわふわ！新食パンレシピが話題に",
+      "video": "generated_videos/bread_cooking/食パンレシピ.mp4",
+      "wav": "generated_videos/bread_cooking/食パンレシピ.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/食パンレシピ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "フランスパン",
+      "title": "驚異のクラスト！新製法でフランスパン革命の兆し",
+      "video": "generated_videos/bread_cooking/フランスパン.mp4",
+      "wav": "generated_videos/bread_cooking/フランスパン.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/フランスパン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "菓子パン",
+      "title": "菓子パン市場、新食感クリームが牽引し成長の見込み",
+      "video": "generated_videos/bread_cooking/菓子パン.mp4",
+      "wav": "generated_videos/bread_cooking/菓子パン.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/菓子パン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/bread_cooking.json",
+      "keyword": "パン作り道具",
+      "title": "革命的！AI搭載パン捏ね機がパン作りを劇的に変える見通し",
+      "video": "generated_videos/bread_cooking/パン作り道具.mp4",
+      "wav": "generated_videos/bread_cooking/パン作り道具.wav",
+      "subtitle_image": "images/generated_videos/bread_cooking/パン作り道具_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "マーケティング",
+      "title": "AI活用マーケティング戦略、市場拡大の見通し",
+      "video": "generated_videos/business/マーケティング.mp4",
+      "wav": "generated_videos/business/マーケティング.wav",
+      "subtitle_image": "images/generated_videos/business/マーケティング_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "営業戦略",
+      "title": "AI活用で営業戦略転換！S社、顧客獲得率20％向上へ",
+      "video": "generated_videos/business/営業戦略.mp4",
+      "wav": "generated_videos/business/営業戦略.wav",
+      "subtitle_image": "images/generated_videos/business/営業戦略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "生産性向上",
+      "title": "AI搭載タスク管理アプリ「Proxima」、生産性向上に革命的な可能性",
+      "video": "generated_videos/business/生産性向上.mp4",
+      "wav": "generated_videos/business/生産性向上.wav",
+      "subtitle_image": "images/generated_videos/business/生産性向上_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "リスク管理",
+      "title": "AIリスク管理の重要性高まる、新法施行で企業対応迫られる",
+      "video": "generated_videos/business/リスク管理.mp4",
+      "wav": "generated_videos/business/リスク管理.wav",
+      "subtitle_image": "images/generated_videos/business/リスク管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "顧客満足",
+      "title": "AI搭載顧客対応システム導入で顧客満足度向上へ",
+      "video": "generated_videos/business/顧客満足.mp4",
+      "wav": "generated_videos/business/顧客満足.wav",
+      "subtitle_image": "images/generated_videos/business/顧客満足_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "競争優位",
+      "title": "AI搭載新システムで競争優位を確立、XYZ社が躍進の見通し",
+      "video": "generated_videos/business/競争優位.mp4",
+      "wav": "generated_videos/business/競争優位.wav",
+      "subtitle_image": "images/generated_videos/business/競争優位_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "事業計画",
+      "title": "AI活用型飲食店経営、事業計画発表で注目集める",
+      "video": "generated_videos/business/事業計画.mp4",
+      "wav": "generated_videos/business/事業計画.wav",
+      "subtitle_image": "images/generated_videos/business/事業計画_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "利益最大化",
+      "title": "AI搭載予測システム導入で利益最大化へ！新興企業A社が躍進",
+      "video": "generated_videos/business/利益最大化.mp4",
+      "wav": "generated_videos/business/利益最大化.wav",
+      "subtitle_image": "images/generated_videos/business/利益最大化_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "ブランド戦略",
+      "title": "革新的ブランド戦略でシェア拡大を目指す、新興企業A社",
+      "video": "generated_videos/business/ブランド戦略.mp4",
+      "wav": "generated_videos/business/ブランド戦略.wav",
+      "subtitle_image": "images/generated_videos/business/ブランド戦略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/business.json",
+      "keyword": "サプライチェーン",
+      "title": "XYZ社のサプライチェーン改革、生産性向上に期待",
+      "video": "generated_videos/business/サプライチェーン.mp4",
+      "wav": "generated_videos/business/サプライチェーン.wav",
+      "subtitle_image": "images/generated_videos/business/サプライチェーン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "キャリアアップ",
+      "title": "AIスキル習得でキャリアアップの波が到来か？",
+      "video": "generated_videos/career/キャリアアップ.mp4",
+      "wav": "generated_videos/career/キャリアアップ.wav",
+      "subtitle_image": "images/generated_videos/career/キャリアアップ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "転職活動",
+      "title": "AI活用転職支援サービス、利用者急増で市場拡大の見通し",
+      "video": "generated_videos/career/転職活動.mp4",
+      "wav": "generated_videos/career/転職活動.wav",
+      "subtitle_image": "images/generated_videos/career/転職活動_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "スキルアップ",
+      "title": "AI時代に対応！新スキル習得支援プログラムが注目を集める",
+      "video": "generated_videos/career/スキルアップ.mp4",
+      "wav": "generated_videos/career/スキルアップ.wav",
+      "subtitle_image": "images/generated_videos/career/スキルアップ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "自己啓発",
+      "title": "自己啓発アプリ「GrowUp」利用者急増！生産性向上に期待高まる",
+      "video": "generated_videos/career/自己啓発.mp4",
+      "wav": "generated_videos/career/自己啓発.wav",
+      "subtitle_image": "images/generated_videos/career/自己啓発_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "ワークライフバランス",
+      "title": "ワークライフバランス推進、企業の取り組み効果に注目",
+      "video": "generated_videos/career/ワークライフバランス.mp4",
+      "wav": "generated_videos/career/ワークライフバランス.wav",
+      "subtitle_image": "images/generated_videos/career/ワークライフバランス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "キャリアプラン",
+      "title": "Z世代、キャリアプラン重視の転職傾向が加速か？",
+      "video": "generated_videos/career/キャリアプラン.mp4",
+      "wav": "generated_videos/career/キャリアプラン.wav",
+      "subtitle_image": "images/generated_videos/career/キャリアプラン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "仕事探し",
+      "title": "AI活用求人サイト、仕事探し革命の可能性",
+      "video": "generated_videos/career/仕事探し.mp4",
+      "wav": "generated_videos/career/仕事探し.wav",
+      "subtitle_image": "images/generated_videos/career/仕事探し_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "面接対策",
+      "title": "AI面接対策ツール開発、採用市場に新風？",
+      "video": "generated_videos/career/面接対策.mp4",
+      "wav": "generated_videos/career/面接対策.wav",
+      "subtitle_image": "images/generated_videos/career/面接対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "職務経歴書",
+      "title": "職務経歴書、AI作成ツール利用が急増　採用担当者の反応は？",
+      "video": "generated_videos/career/職務経歴書.mp4",
+      "wav": "generated_videos/career/職務経歴書.wav",
+      "subtitle_image": "images/generated_videos/career/職務経歴書_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/career.json",
+      "keyword": "年収アップ",
+      "title": "AI活用で年収アップ！最新転職事情",
+      "video": "generated_videos/career/年収アップ.mp4",
+      "wav": "generated_videos/career/年収アップ.wav",
+      "subtitle_image": "images/generated_videos/career/年収アップ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "簡単レシピ",
+      "title": "時短！簡単レシピで話題沸騰中！週末料理人の増加に貢献か？",
+      "video": "generated_videos/cooking/簡単レシピ.mp4",
+      "wav": "generated_videos/cooking/簡単レシピ.wav",
+      "subtitle_image": "images/generated_videos/cooking/簡単レシピ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "時短料理",
+      "title": "時短料理ブーム到来！15分レシピ本が驚異的な売上を記録",
+      "video": "generated_videos/cooking/時短料理.mp4",
+      "wav": "generated_videos/cooking/時短料理.wav",
+      "subtitle_image": "images/generated_videos/cooking/時短料理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "本格料理",
+      "title": "本格料理レストラン「夜桜」がミシュラン獲得の可能性！",
+      "video": "generated_videos/cooking/本格料理.mp4",
+      "wav": "generated_videos/cooking/本格料理.wav",
+      "subtitle_image": "images/generated_videos/cooking/本格料理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "栄養満点",
+      "title": "驚異の栄養満点！未来型野菜「ベジタブルX」開発で健康寿命延伸の可能性",
+      "video": "generated_videos/cooking/栄養満点.mp4",
+      "wav": "generated_videos/cooking/栄養満点.wav",
+      "subtitle_image": "images/generated_videos/cooking/栄養満点_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "和食",
+      "title": "和食レストラン「花咲く」がミシュラン一つ星獲得の見込み",
+      "video": "generated_videos/cooking/和食.mp4",
+      "wav": "generated_videos/cooking/和食.wav",
+      "subtitle_image": "images/generated_videos/cooking/和食_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "洋食",
+      "title": "洋食レストラン業界、新たな需要開拓へ動き出す",
+      "video": "generated_videos/cooking/洋食.mp4",
+      "wav": "generated_videos/cooking/洋食.wav",
+      "subtitle_image": "images/generated_videos/cooking/洋食_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "中華",
+      "title": "新食感！未来の中華料理「エア麺」開発に成功か？",
+      "video": "generated_videos/cooking/中華.mp4",
+      "wav": "generated_videos/cooking/中華.wav",
+      "subtitle_image": "images/generated_videos/cooking/中華_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "スイーツ",
+      "title": "新食感スイーツ「ムーンシュガー」販売開始で業界に衝撃",
+      "video": "generated_videos/cooking/スイーツ.mp4",
+      "wav": "generated_videos/cooking/スイーツ.wav",
+      "subtitle_image": "images/generated_videos/cooking/スイーツ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "料理動画",
+      "title": "料理動画投稿数の増加が食トレンドに影響か？",
+      "video": "generated_videos/cooking/料理動画.mp4",
+      "wav": "generated_videos/cooking/料理動画.wav",
+      "subtitle_image": "images/generated_videos/cooking/料理動画_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cooking.json",
+      "keyword": "食材選び",
+      "title": "旬の食材選びが食卓を彩る！新たなトレンド食材も登場",
+      "video": "generated_videos/cooking/食材選び.mp4",
+      "wav": "generated_videos/cooking/食材選び.wav",
+      "subtitle_image": "images/generated_videos/cooking/食材選び_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "暗号資産",
+      "title": "暗号資産市場、年末にかけて上昇傾向の見通し",
+      "video": "generated_videos/cryptocurrency/暗号資産.mp4",
+      "wav": "generated_videos/cryptocurrency/暗号資産.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/暗号資産_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "ブロックチェーン",
+      "title": "ブロックチェーン技術革新で、新たなデジタル資産管理プラットフォーム誕生か？",
+      "video": "generated_videos/cryptocurrency/ブロックチェーン.mp4",
+      "wav": "generated_videos/cryptocurrency/ブロックチェーン.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/ブロックチェーン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "ビットコイン",
+      "title": "ビットコイン価格、年末にかけて上昇の可能性？専門家分析",
+      "video": "generated_videos/cryptocurrency/ビットコイン.mp4",
+      "wav": "generated_videos/cryptocurrency/ビットコイン.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/ビットコイン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "仮想通貨取引",
+      "title": "仮想通貨取引高、年末にかけて堅調な伸びを示す見込み",
+      "video": "generated_videos/cryptocurrency/仮想通貨取引.mp4",
+      "wav": "generated_videos/cryptocurrency/仮想通貨取引.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/仮想通貨取引_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "マイニング",
+      "title": "次世代マイニング技術「クァンタム・ハッシュ」開発、市場に衝撃",
+      "video": "generated_videos/cryptocurrency/マイニング.mp4",
+      "wav": "generated_videos/cryptocurrency/マイニング.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/マイニング_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "NFT",
+      "title": "NFT市場、新たな潮流到来か？メタバース連携型NFTが急成長",
+      "video": "generated_videos/cryptocurrency/NFT.mp4",
+      "wav": "generated_videos/cryptocurrency/NFT.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/NFT_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "メタバース",
+      "title": "メタバース経済圏活性化へ、新仮想通貨「MetaCoin」登場！",
+      "video": "generated_videos/cryptocurrency/メタバース.mp4",
+      "wav": "generated_videos/cryptocurrency/メタバース.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/メタバース_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "分散型台帳",
+      "title": "分散型台帳技術革新で新たな金融エコシステム構築へ",
+      "video": "generated_videos/cryptocurrency/分散型台帳.mp4",
+      "wav": "generated_videos/cryptocurrency/分散型台帳.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/分散型台帳_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "ステーブルコイン",
+      "title": "新ステーブルコイン「アースコイン」、発行開始へ　価格安定化技術に注目",
+      "video": "generated_videos/cryptocurrency/ステーブルコイン.mp4",
+      "wav": "generated_videos/cryptocurrency/ステーブルコイン.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/ステーブルコイン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/cryptocurrency.json",
+      "keyword": "アルトコイン",
+      "title": "アルトコイン市場、新たな成長フェーズ突入か？専門家予想",
+      "video": "generated_videos/cryptocurrency/アルトコイン.mp4",
+      "wav": "generated_videos/cryptocurrency/アルトコイン.wav",
+      "subtitle_image": "images/generated_videos/cryptocurrency/アルトコイン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "景気回復",
+      "title": "政府、大胆な金融緩和策で景気回復への期待高まる",
+      "video": "generated_videos/economy/景気回復.mp4",
+      "wav": "generated_videos/economy/景気回復.wav",
+      "subtitle_image": "images/generated_videos/economy/景気回復_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "株価上昇",
+      "title": "好調な消費を背景に、今週も株価上昇への期待高まる",
+      "video": "generated_videos/economy/株価上昇.mp4",
+      "wav": "generated_videos/economy/株価上昇.wav",
+      "subtitle_image": "images/generated_videos/economy/株価上昇_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "物価高騰",
+      "title": "物価高騰で年末年始の消費支出減少の見通し",
+      "video": "generated_videos/economy/物価高騰.mp4",
+      "wav": "generated_videos/economy/物価高騰.wav",
+      "subtitle_image": "images/generated_videos/economy/物価高騰_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "金融政策",
+      "title": "金融政策正常化、市場に警戒感広がる",
+      "video": "generated_videos/economy/金融政策.mp4",
+      "wav": "generated_videos/economy/金融政策.wav",
+      "subtitle_image": "images/generated_videos/economy/金融政策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "経済成長",
+      "title": "AI投資促進策、経済成長への貢献に期待高まる",
+      "video": "generated_videos/economy/経済成長.mp4",
+      "wav": "generated_videos/economy/経済成長.wav",
+      "subtitle_image": "images/generated_videos/economy/経済成長_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "貿易赤字",
+      "title": "貿易赤字拡大、円安懸念で輸出鈍化の見通し",
+      "video": "generated_videos/economy/貿易赤字.mp4",
+      "wav": "generated_videos/economy/貿易赤字.wav",
+      "subtitle_image": "images/generated_videos/economy/貿易赤字_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "消費税増税",
+      "title": "消費税増税、景気への影響懸念強まる　政府は対策強化を検討",
+      "video": "generated_videos/economy/消費税増税.mp4",
+      "wav": "generated_videos/economy/消費税増税.wav",
+      "subtitle_image": "images/generated_videos/economy/消費税増税_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "失業率低下",
+      "title": "積極的雇用対策の効果か？10月失業率低下傾向に",
+      "video": "generated_videos/economy/失業率低下.mp4",
+      "wav": "generated_videos/economy/失業率低下.wav",
+      "subtitle_image": "images/generated_videos/economy/失業率低下_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "インフレ抑制",
+      "title": "政府、追加のインフレ抑制策検討へ　年末年始需要への対応も視野",
+      "video": "generated_videos/economy/インフレ抑制.mp4",
+      "wav": "generated_videos/economy/インフレ抑制.wav",
+      "subtitle_image": "images/generated_videos/economy/インフレ抑制_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/economy.json",
+      "keyword": "経済指標",
+      "title": "主要経済指標好調、年末年始消費拡大の見込み",
+      "video": "generated_videos/economy/経済指標.mp4",
+      "wav": "generated_videos/economy/経済指標.wav",
+      "subtitle_image": "images/generated_videos/economy/経済指標_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "映画公開",
+      "title": "話題作『星影の航海者』映画公開日が決定！",
+      "video": "generated_videos/entertainment/映画公開.mp4",
+      "wav": "generated_videos/entertainment/映画公開.wav",
+      "subtitle_image": "images/generated_videos/entertainment/映画公開_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "ライブ情報",
+      "title": "人気バンド「流星群」、追加公演の可能性！ライブ情報に注目が集まる",
+      "video": "generated_videos/entertainment/ライブ情報.mp4",
+      "wav": "generated_videos/entertainment/ライブ情報.wav",
+      "subtitle_image": "images/generated_videos/entertainment/ライブ情報_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "音楽フェス",
+      "title": "伝説的フェス「サマーソニック」来年開催の可能性！",
+      "video": "generated_videos/entertainment/音楽フェス.mp4",
+      "wav": "generated_videos/entertainment/音楽フェス.wav",
+      "subtitle_image": "images/generated_videos/entertainment/音楽フェス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "人気ドラマ",
+      "title": "話題沸騰！人気ドラマ続編制作の可能性に視聴者興奮！",
+      "video": "generated_videos/entertainment/人気ドラマ.mp4",
+      "wav": "generated_videos/entertainment/人気ドラマ.wav",
+      "subtitle_image": "images/generated_videos/entertainment/人気ドラマ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "ゲーム実況",
+      "title": "人気ゲーム実況者A氏、新ゲームへの挑戦を発表！",
+      "video": "generated_videos/entertainment/ゲーム実況.mp4",
+      "wav": "generated_videos/entertainment/ゲーム実況.wav",
+      "subtitle_image": "images/generated_videos/entertainment/ゲーム実況_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "アニメ新番",
+      "title": "話題の新番アニメ『星詠みのアルケミスト』、異例の視聴率更新の可能性",
+      "video": "generated_videos/entertainment/アニメ新番.mp4",
+      "wav": "generated_videos/entertainment/アニメ新番.wav",
+      "subtitle_image": "images/generated_videos/entertainment/アニメ新番_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "話題の漫画",
+      "title": "異世界グルメ漫画『腹ペコ冒険記』が社会現象化！アニメ化の可能性も",
+      "video": "generated_videos/entertainment/話題の漫画.mp4",
+      "wav": "generated_videos/entertainment/話題の漫画.wav",
+      "subtitle_image": "images/generated_videos/entertainment/話題の漫画_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "アイドルデビュー",
+      "title": "期待の新人グループ「Shooting Star」、来年春アイドルデビューへ！",
+      "video": "generated_videos/entertainment/アイドルデビュー.mp4",
+      "wav": "generated_videos/entertainment/アイドルデビュー.wav",
+      "subtitle_image": "images/generated_videos/entertainment/アイドルデビュー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "ユーチューバー",
+      "title": "人気ユーチューバーグループ、新事業進出の可能性！",
+      "video": "generated_videos/entertainment/ユーチューバー.mp4",
+      "wav": "generated_videos/entertainment/ユーチューバー.wav",
+      "subtitle_image": "images/generated_videos/entertainment/ユーチューバー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/entertainment.json",
+      "keyword": "芸能ニュース",
+      "title": "人気アイドルグループ「Shooting Star」、新曲リリースでオリコン1位獲得の見通し！",
+      "video": "generated_videos/entertainment/芸能ニュース.mp4",
+      "wav": "generated_videos/entertainment/芸能ニュース.wav",
+      "subtitle_image": "images/generated_videos/entertainment/芸能ニュース_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "株価上昇",
+      "title": "AI関連銘柄、好調な業績で株価上昇の期待高まる",
+      "video": "generated_videos/equity_investment/株価上昇.mp4",
+      "wav": "generated_videos/equity_investment/株価上昇.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/株価上昇_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "配当金",
+      "title": "XYZ社の増配発表で市場に活気が！配当金利回り向上への期待高まる",
+      "video": "generated_videos/equity_investment/配当金.mp4",
+      "wav": "generated_videos/equity_investment/配当金.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/配当金_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "投資戦略",
+      "title": "AI活用投資戦略が新たな潮流に？専門家らが将来性に着目",
+      "video": "generated_videos/equity_investment/投資戦略.mp4",
+      "wav": "generated_videos/equity_investment/投資戦略.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/投資戦略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "リスク管理",
+      "title": "AIリスク管理ツール導入で投資家の安心感向上、市場に波紋",
+      "video": "generated_videos/equity_investment/リスク管理.mp4",
+      "wav": "generated_videos/equity_investment/リスク管理.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/リスク管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "ポートフォリオ",
+      "title": "AI時代のポートフォリオ再構築、成長株へのシフト加速か？",
+      "video": "generated_videos/equity_investment/ポートフォリオ.mp4",
+      "wav": "generated_videos/equity_investment/ポートフォリオ.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/ポートフォリオ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "株価指数",
+      "title": "主要株価指数、来週上昇の可能性！専門家の見解は？",
+      "video": "generated_videos/equity_investment/株価指数.mp4",
+      "wav": "generated_videos/equity_investment/株価指数.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/株価指数_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "テクニカル分析",
+      "title": "テクニカル分析、新たな指標「トレンド波動指数」に注目が集まる",
+      "video": "generated_videos/equity_investment/テクニカル分析.mp4",
+      "wav": "generated_videos/equity_investment/テクニカル分析.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/テクニカル分析_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "ファンダメンタルズ",
+      "title": "堅調なファンダメンタルズに支えられ、XYZ社の株価上昇が期待される",
+      "video": "generated_videos/equity_investment/ファンダメンタルズ.mp4",
+      "wav": "generated_videos/equity_investment/ファンダメンタルズ.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/ファンダメンタルズ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "売買シグナル",
+      "title": "AI搭載売買シグナル、市場シェア拡大の見込み",
+      "video": "generated_videos/equity_investment/売買シグナル.mp4",
+      "wav": "generated_videos/equity_investment/売買シグナル.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/売買シグナル_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/equity_investment.json",
+      "keyword": "個別銘柄",
+      "title": "XYZ社の株価上昇、個別銘柄への投資妙味に期待高まる",
+      "video": "generated_videos/equity_investment/個別銘柄.mp4",
+      "wav": "generated_videos/equity_investment/個別銘柄.wav",
+      "subtitle_image": "images/generated_videos/equity_investment/個別銘柄_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "恋の予感",
+      "title": "春の訪れとともに…！？　街で急増中の「恋の予感」報告",
+      "video": "generated_videos/female_love/恋の予感.mp4",
+      "wav": "generated_videos/female_love/恋の予感.wav",
+      "subtitle_image": "images/generated_videos/female_love/恋の予感_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "片思い",
+      "title": "令和時代の片思い事情！成就率向上に繋がる最新研究結果",
+      "video": "generated_videos/female_love/片思い.mp4",
+      "wav": "generated_videos/female_love/片思い.wav",
+      "subtitle_image": "images/generated_videos/female_love/片思い_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "運命の人",
+      "title": "AIが導く？運命の人との出会いを予測する新サービス登場！",
+      "video": "generated_videos/female_love/運命の人.mp4",
+      "wav": "generated_videos/female_love/運命の人.wav",
+      "subtitle_image": "images/generated_videos/female_love/運命の人_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "恋の悩み",
+      "title": "AIが導く恋の悩み解決？新サービスで恋愛成就率向上に期待",
+      "video": "generated_videos/female_love/恋の悩み.mp4",
+      "wav": "generated_videos/female_love/恋の悩み.wav",
+      "subtitle_image": "images/generated_videos/female_love/恋の悩み_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "理想の彼",
+      "title": "理想の彼像、Z世代女性で新たな傾向！調査結果発表",
+      "video": "generated_videos/female_love/理想の彼.mp4",
+      "wav": "generated_videos/female_love/理想の彼.wav",
+      "subtitle_image": "images/generated_videos/female_love/理想の彼_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "恋愛成就",
+      "title": "最新研究：ポジティブ思考で恋愛成就率が向上との見通し",
+      "video": "generated_videos/female_love/恋愛成就.mp4",
+      "wav": "generated_videos/female_love/恋愛成就.wav",
+      "subtitle_image": "images/generated_videos/female_love/恋愛成就_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "幸せな結婚",
+      "title": "AI婚活アプリ、幸せな結婚実現率70％超え！",
+      "video": "generated_videos/female_love/幸せな結婚.mp4",
+      "wav": "generated_videos/female_love/幸せな結婚.wav",
+      "subtitle_image": "images/generated_videos/female_love/幸せな結婚_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "失恋",
+      "title": "大人の失恋事情：癒し系カフェが急増中！心の傷を癒す新トレンド",
+      "video": "generated_videos/female_love/失恋.mp4",
+      "wav": "generated_videos/female_love/失恋.wav",
+      "subtitle_image": "images/generated_videos/female_love/失恋_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "恋愛テクニック",
+      "title": "最新恋愛テクニック！効果的なアプローチ法とは？",
+      "video": "generated_videos/female_love/恋愛テクニック.mp4",
+      "wav": "generated_videos/female_love/恋愛テクニック.wav",
+      "subtitle_image": "images/generated_videos/female_love/恋愛テクニック_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/female_love.json",
+      "keyword": "婚活",
+      "title": "婚活市場に新風！AIマッチングアプリの登場で成婚率向上に期待",
+      "video": "generated_videos/female_love/婚活.mp4",
+      "wav": "generated_videos/female_love/婚活.wav",
+      "subtitle_image": "images/generated_videos/female_love/婚活_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "為替レート",
+      "title": "円安傾向継続か？ 為替レート変動に専門家も注目",
+      "video": "generated_videos/fx_trade/為替レート.mp4",
+      "wav": "generated_videos/fx_trade/為替レート.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/為替レート_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "通貨ペア",
+      "title": "ユーロドル、新たなレンジ相場突入の可能性？専門家分析",
+      "video": "generated_videos/fx_trade/通貨ペア.mp4",
+      "wav": "generated_videos/fx_trade/通貨ペア.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/通貨ペア_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "テクニカル分析",
+      "title": "RSIとMACDを用いた新たなテクニカル分析手法が注目を集める",
+      "video": "generated_videos/fx_trade/テクニカル分析.mp4",
+      "wav": "generated_videos/fx_trade/テクニカル分析.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/テクニカル分析_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "ファンダメンタルズ",
+      "title": "米利上げ加速の可能性、円安傾向が継続か？ファンダメンタルズ分析が注目",
+      "video": "generated_videos/fx_trade/ファンダメンタルズ.mp4",
+      "wav": "generated_videos/fx_trade/ファンダメンタルズ.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/ファンダメンタルズ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "ポジション管理",
+      "title": "AI搭載FXツール、ポジション管理の最適化で注目集める",
+      "video": "generated_videos/fx_trade/ポジション管理.mp4",
+      "wav": "generated_videos/fx_trade/ポジション管理.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/ポジション管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "レバレッジ取引",
+      "title": "レバレッジ取引規制強化で市場に波紋、個人投資家の対応に注目",
+      "video": "generated_videos/fx_trade/レバレッジ取引.mp4",
+      "wav": "generated_videos/fx_trade/レバレッジ取引.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/レバレッジ取引_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "スキャルピング",
+      "title": "AI搭載FXツールでスキャルピング戦略に革命の可能性",
+      "video": "generated_videos/fx_trade/スキャルピング.mp4",
+      "wav": "generated_videos/fx_trade/スキャルピング.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/スキャルピング_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "デイトレード",
+      "title": "デイトレード戦略に新風？AI予測ツール活用で勝率向上への期待高まる",
+      "video": "generated_videos/fx_trade/デイトレード.mp4",
+      "wav": "generated_videos/fx_trade/デイトレード.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/デイトレード_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "リスク管理",
+      "title": "FX取引におけるリスク管理の重要性再認識、新たな指標開発の可能性",
+      "video": "generated_videos/fx_trade/リスク管理.mp4",
+      "wav": "generated_videos/fx_trade/リスク管理.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/リスク管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/fx_trade.json",
+      "keyword": "経済指標",
+      "title": "ISM製造業景況指数の大幅改善で円安加速の可能性",
+      "video": "generated_videos/fx_trade/経済指標.mp4",
+      "wav": "generated_videos/fx_trade/経済指標.wav",
+      "subtitle_image": "images/generated_videos/fx_trade/経済指標_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "スマートウォッチ",
+      "title": "革新的スマートウォッチ「ChronoLeap」発表！健康管理機能が進化",
+      "video": "generated_videos/gadget/スマートウォッチ.mp4",
+      "wav": "generated_videos/gadget/スマートウォッチ.wav",
+      "subtitle_image": "images/generated_videos/gadget/スマートウォッチ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "ウェアラブル端末",
+      "title": "新型ウェアラブル端末「Aura」発表！健康管理機能強化で話題に",
+      "video": "generated_videos/gadget/ウェアラブル端末.mp4",
+      "wav": "generated_videos/gadget/ウェアラブル端末.wav",
+      "subtitle_image": "images/generated_videos/gadget/ウェアラブル端末_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "最新ガジェット",
+      "title": "驚異の省電力！新型スマートウォッチ「ChronoWave」発表！",
+      "video": "generated_videos/gadget/最新ガジェット.mp4",
+      "wav": "generated_videos/gadget/最新ガジェット.wav",
+      "subtitle_image": "images/generated_videos/gadget/最新ガジェット_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "IoTデバイス",
+      "title": "スマートホームIoTデバイス「未来の住まい」発表、市場拡大の見通し",
+      "video": "generated_videos/gadget/IoTデバイス.mp4",
+      "wav": "generated_videos/gadget/IoTデバイス.wav",
+      "subtitle_image": "images/generated_videos/gadget/IoTデバイス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "無線イヤホン",
+      "title": "革新的ノイズキャンセリング搭載！新型無線イヤホン「QuietWave」発表",
+      "video": "generated_videos/gadget/無線イヤホン.mp4",
+      "wav": "generated_videos/gadget/無線イヤホン.wav",
+      "subtitle_image": "images/generated_videos/gadget/無線イヤホン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "デジタルカメラ",
+      "title": "革新的センサー搭載！新型デジタルカメラ「LUMINA X」発表へ",
+      "video": "generated_videos/gadget/デジタルカメラ.mp4",
+      "wav": "generated_videos/gadget/デジタルカメラ.wav",
+      "subtitle_image": "images/generated_videos/gadget/デジタルカメラ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "VRヘッドセット",
+      "title": "革新的VRヘッドセット「ネクストリア」発表、没入感向上に期待",
+      "video": "generated_videos/gadget/VRヘッドセット.mp4",
+      "wav": "generated_videos/gadget/VRヘッドセット.wav",
+      "subtitle_image": "images/generated_videos/gadget/VRヘッドセット_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "モバイルバッテリー",
+      "title": "革命的モバイルバッテリー「PowerCube」発表！驚異の充電速度を実現か？",
+      "video": "generated_videos/gadget/モバイルバッテリー.mp4",
+      "wav": "generated_videos/gadget/モバイルバッテリー.wav",
+      "subtitle_image": "images/generated_videos/gadget/モバイルバッテリー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "アクションカメラ",
+      "title": "次世代アクションカメラ「アドレナリンX」発表！驚異の4K120fps撮影を実現",
+      "video": "generated_videos/gadget/アクションカメラ.mp4",
+      "wav": "generated_videos/gadget/アクションカメラ.wav",
+      "subtitle_image": "images/generated_videos/gadget/アクションカメラ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gadget.json",
+      "keyword": "スマートスピーカー",
+      "title": "新型スマートスピーカー「EchoMuse」発表、音楽再生機能に特化か",
+      "video": "generated_videos/gadget/スマートスピーカー.mp4",
+      "wav": "generated_videos/gadget/スマートスピーカー.wav",
+      "subtitle_image": "images/generated_videos/gadget/スマートスピーカー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "ゲーム攻略",
+      "title": "人気RPG「アストラルクロニクル」最新アップデートで攻略法激変か？",
+      "video": "generated_videos/game/ゲーム攻略.mp4",
+      "wav": "generated_videos/game/ゲーム攻略.wav",
+      "subtitle_image": "images/generated_videos/game/ゲーム攻略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "オンラインゲーム",
+      "title": "人気オンラインゲーム「アークナイツオンライン」に新要素追加へ",
+      "video": "generated_videos/game/オンラインゲーム.mp4",
+      "wav": "generated_videos/game/オンラインゲーム.wav",
+      "subtitle_image": "images/generated_videos/game/オンラインゲーム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "RPG",
+      "title": "人気RPG「アヴァロンの星影」最新拡張パック発表！",
+      "video": "generated_videos/game/RPG.mp4",
+      "wav": "generated_videos/game/RPG.wav",
+      "subtitle_image": "images/generated_videos/game/RPG_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "eスポーツ",
+      "title": "新興eスポーツチーム「Phoenix」、驚異的な成長でリーグ優勝の可能性！",
+      "video": "generated_videos/game/eスポーツ.mp4",
+      "wav": "generated_videos/game/eスポーツ.wav",
+      "subtitle_image": "images/generated_videos/game/eスポーツ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "新作ゲーム",
+      "title": "期待高まる！新作ゲーム『星詠みの戦記』発表会レポート",
+      "video": "generated_videos/game/新作ゲーム.mp4",
+      "wav": "generated_videos/game/新作ゲーム.wav",
+      "subtitle_image": "images/generated_videos/game/新作ゲーム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "ゲーム実況",
+      "title": "人気ゲーム実況者グループ、新プロジェクト始動！",
+      "video": "generated_videos/game/ゲーム実況.mp4",
+      "wav": "generated_videos/game/ゲーム実況.wav",
+      "subtitle_image": "images/generated_videos/game/ゲーム実況_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "スマホゲーム",
+      "title": "人気スマホゲーム『星詠みの導師』に新コンテンツ追加！売上高増加の見込み",
+      "video": "generated_videos/game/スマホゲーム.mp4",
+      "wav": "generated_videos/game/スマホゲーム.wav",
+      "subtitle_image": "images/generated_videos/game/スマホゲーム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "レトロゲーム",
+      "title": "レトロゲーム市場、新たな成長フェーズへ突入か？",
+      "video": "generated_videos/game/レトロゲーム.mp4",
+      "wav": "generated_videos/game/レトロゲーム.wav",
+      "subtitle_image": "images/generated_videos/game/レトロゲーム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "キャラクター",
+      "title": "人気RPG『アヴァロンの星屑』新キャラクター追加で売上大幅増の見込み",
+      "video": "generated_videos/game/キャラクター.mp4",
+      "wav": "generated_videos/game/キャラクター.wav",
+      "subtitle_image": "images/generated_videos/game/キャラクター_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/game.json",
+      "keyword": "VRゲーム",
+      "title": "VRゲーム市場、メタバース統合で急成長の見込み",
+      "video": "generated_videos/game/VRゲーム.mp4",
+      "wav": "generated_videos/game/VRゲーム.wav",
+      "subtitle_image": "images/generated_videos/game/VRゲーム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "絶品グルメ",
+      "title": "幻の食材使用！新レストランで絶品グルメ体験の可能性",
+      "video": "generated_videos/gourmet/絶品グルメ.mp4",
+      "wav": "generated_videos/gourmet/絶品グルメ.wav",
+      "subtitle_image": "images/generated_videos/gourmet/絶品グルメ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "美食体験",
+      "title": "幻の食材を使った新レストラン、美食体験への期待高まる",
+      "video": "generated_videos/gourmet/美食体験.mp4",
+      "wav": "generated_videos/gourmet/美食体験.wav",
+      "subtitle_image": "images/generated_videos/gourmet/美食体験_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "話題の店",
+      "title": "行列必至！話題の店「満腹亭」が新メニュー発表！",
+      "video": "generated_videos/gourmet/話題の店.mp4",
+      "wav": "generated_videos/gourmet/話題の店.wav",
+      "subtitle_image": "images/generated_videos/gourmet/話題の店_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "隠れ家カフェ",
+      "title": "都心に現れた奇跡！話題の隠れ家カフェ「秘密の花園」開店",
+      "video": "generated_videos/gourmet/隠れ家カフェ.mp4",
+      "wav": "generated_videos/gourmet/隠れ家カフェ.wav",
+      "subtitle_image": "images/generated_videos/gourmet/隠れ家カフェ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "ご当地グルメ",
+      "title": "幻の「月見団子」復活なるか？新たなご当地グルメ誕生の可能性",
+      "video": "generated_videos/gourmet/ご当地グルメ.mp4",
+      "wav": "generated_videos/gourmet/ご当地グルメ.wav",
+      "subtitle_image": "images/generated_videos/gourmet/ご当地グルメ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "食べログ高評価",
+      "title": "食べログ高評価店が軒並み値上げ！その背景とは？",
+      "video": "generated_videos/gourmet/食べログ高評価.mp4",
+      "wav": "generated_videos/gourmet/食べログ高評価.wav",
+      "subtitle_image": "images/generated_videos/gourmet/食べログ高評価_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "旬の食材",
+      "title": "今秋はきのこブーム到来か？ 旬の食材を使った新メニュー続々",
+      "video": "generated_videos/gourmet/旬の食材.mp4",
+      "wav": "generated_videos/gourmet/旬の食材.wav",
+      "subtitle_image": "images/generated_videos/gourmet/旬の食材_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "贅沢ディナー",
+      "title": "都内高級ホテル、新「天空の贅沢ディナー」コース発表！",
+      "video": "generated_videos/gourmet/贅沢ディナー.mp4",
+      "wav": "generated_videos/gourmet/贅沢ディナー.wav",
+      "subtitle_image": "images/generated_videos/gourmet/贅沢ディナー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "こだわりの味",
+      "title": "老舗の味を受け継ぐ！新進気鋭のラーメン店が話題沸騰中",
+      "video": "generated_videos/gourmet/こだわりの味.mp4",
+      "wav": "generated_videos/gourmet/こだわりの味.wav",
+      "subtitle_image": "images/generated_videos/gourmet/こだわりの味_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/gourmet.json",
+      "keyword": "人気レストラン",
+      "title": "港区に新オープン！話題のイタリアンが人気レストランの仲間入りか？",
+      "video": "generated_videos/gourmet/人気レストラン.mp4",
+      "wav": "generated_videos/gourmet/人気レストラン.wav",
+      "subtitle_image": "images/generated_videos/gourmet/人気レストラン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "プロジェクト管理",
+      "title": "革新的プロジェクト管理ツール「Projectron」発表！生産性向上に期待",
+      "video": "generated_videos/it_tool/プロジェクト管理.mp4",
+      "wav": "generated_videos/it_tool/プロジェクト管理.wav",
+      "subtitle_image": "images/generated_videos/it_tool/プロジェクト管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "タスク管理ツール",
+      "title": "新タスク管理ツール「TaskZen」発表！生産性向上に期待",
+      "video": "generated_videos/it_tool/タスク管理ツール.mp4",
+      "wav": "generated_videos/it_tool/タスク管理ツール.wav",
+      "subtitle_image": "images/generated_videos/it_tool/タスク管理ツール_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "クラウドサービス",
+      "title": "新クラウドサービス「SkyCloud」発表、市場拡大の見込み",
+      "video": "generated_videos/it_tool/クラウドサービス.mp4",
+      "wav": "generated_videos/it_tool/クラウドサービス.wav",
+      "subtitle_image": "images/generated_videos/it_tool/クラウドサービス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "セキュリティ対策",
+      "title": "AI駆動型セキュリティ対策ソフト「GuardianEye」が急成長、市場シェア拡大の見通し",
+      "video": "generated_videos/it_tool/セキュリティ対策.mp4",
+      "wav": "generated_videos/it_tool/セキュリティ対策.wav",
+      "subtitle_image": "images/generated_videos/it_tool/セキュリティ対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "データ分析ツール",
+      "title": "革新的データ分析ツール「Aether」発表、市場拡大の見通し",
+      "video": "generated_videos/it_tool/データ分析ツール.mp4",
+      "wav": "generated_videos/it_tool/データ分析ツール.wav",
+      "subtitle_image": "images/generated_videos/it_tool/データ分析ツール_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "情報共有ツール",
+      "title": "革新的情報共有ツール「ShareLink」が市場投入、生産性向上に期待",
+      "video": "generated_videos/it_tool/情報共有ツール.mp4",
+      "wav": "generated_videos/it_tool/情報共有ツール.wav",
+      "subtitle_image": "images/generated_videos/it_tool/情報共有ツール_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "業務自動化",
+      "title": "AI搭載RPAツール「AutoMagic」が業務自動化市場に新風を巻き起こす",
+      "video": "generated_videos/it_tool/業務自動化.mp4",
+      "wav": "generated_videos/it_tool/業務自動化.wav",
+      "subtitle_image": "images/generated_videos/it_tool/業務自動化_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "AI活用ツール",
+      "title": "AI活用ツール「未来予測くん」開発、市場拡大の見通し",
+      "video": "generated_videos/it_tool/AI活用ツール.mp4",
+      "wav": "generated_videos/it_tool/AI活用ツール.wav",
+      "subtitle_image": "images/generated_videos/it_tool/AI活用ツール_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "システム開発",
+      "title": "AI駆動型システム開発支援ツール「SysDevAI」が市場投入へ",
+      "video": "generated_videos/it_tool/システム開発.mp4",
+      "wav": "generated_videos/it_tool/システム開発.wav",
+      "subtitle_image": "images/generated_videos/it_tool/システム開発_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/it_tool.json",
+      "keyword": "リモートワーク",
+      "title": "AI搭載リモートワーク支援ツール「TeleBrain」発表、生産性向上に期待",
+      "video": "generated_videos/it_tool/リモートワーク.mp4",
+      "wav": "generated_videos/it_tool/リモートワーク.wav",
+      "subtitle_image": "images/generated_videos/it_tool/リモートワーク_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "時短術",
+      "title": "家事の時短術革命！AI搭載スマート家電が普及へ",
+      "video": "generated_videos/lifehack/時短術.mp4",
+      "wav": "generated_videos/lifehack/時短術.wav",
+      "subtitle_image": "images/generated_videos/lifehack/時短術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "家事効率化",
+      "title": "AI搭載スマート家電で家事効率化革命！主婦層に朗報か？",
+      "video": "generated_videos/lifehack/家事効率化.mp4",
+      "wav": "generated_videos/lifehack/家事効率化.wav",
+      "subtitle_image": "images/generated_videos/lifehack/家事効率化_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "節約術",
+      "title": "家計防衛！驚きの節約術で生活費を圧縮する新トレンド",
+      "video": "generated_videos/lifehack/節約術.mp4",
+      "wav": "generated_videos/lifehack/節約術.wav",
+      "subtitle_image": "images/generated_videos/lifehack/節約術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "整理整頓",
+      "title": "魔法の収納術！整理整頓で人生が変わる？最新メソッドに注目",
+      "video": "generated_videos/lifehack/整理整頓.mp4",
+      "wav": "generated_videos/lifehack/整理整頓.wav",
+      "subtitle_image": "images/generated_videos/lifehack/整理整頓_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "収納術",
+      "title": "驚きの収納術！クローゼットが2倍に広がる新発想",
+      "video": "generated_videos/lifehack/収納術.mp4",
+      "wav": "generated_videos/lifehack/収納術.wav",
+      "subtitle_image": "images/generated_videos/lifehack/収納術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "簡単レシピ",
+      "title": "時短！簡単レシピで話題沸騰中！週末料理人の増加に期待",
+      "video": "generated_videos/lifehack/簡単レシピ.mp4",
+      "wav": "generated_videos/lifehack/簡単レシピ.wav",
+      "subtitle_image": "images/generated_videos/lifehack/簡単レシピ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "睡眠改善",
+      "title": "驚異の新素材「スリープセル」で睡眠改善の可能性！",
+      "video": "generated_videos/lifehack/睡眠改善.mp4",
+      "wav": "generated_videos/lifehack/睡眠改善.wav",
+      "subtitle_image": "images/generated_videos/lifehack/睡眠改善_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "集中力アップ",
+      "title": "最新研究：脳波制御で集中力アップの可能性！",
+      "video": "generated_videos/lifehack/集中力アップ.mp4",
+      "wav": "generated_videos/lifehack/集中力アップ.wav",
+      "subtitle_image": "images/generated_videos/lifehack/集中力アップ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "ストレス軽減",
+      "title": "最新研究：香りでストレス軽減、リラックス効果UPの可能性",
+      "video": "generated_videos/lifehack/ストレス軽減.mp4",
+      "wav": "generated_videos/lifehack/ストレス軽減.wav",
+      "subtitle_image": "images/generated_videos/lifehack/ストレス軽減_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/lifehack.json",
+      "keyword": "目標達成",
+      "title": "目標達成率向上アプリ「GoAchieve」開発で新時代到来か？",
+      "video": "generated_videos/lifehack/目標達成.mp4",
+      "wav": "generated_videos/lifehack/目標達成.wav",
+      "subtitle_image": "images/generated_videos/lifehack/目標達成_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "恋愛テクニック",
+      "title": "最新恋愛テクニック！AIが導く理想のデートプランの可能性",
+      "video": "generated_videos/male_love/恋愛テクニック.mp4",
+      "wav": "generated_videos/male_love/恋愛テクニック.wav",
+      "subtitle_image": "images/generated_videos/male_love/恋愛テクニック_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "理想の女性",
+      "title": "現代男性の理想の女性像、AI分析で意外な結果に！",
+      "video": "generated_videos/male_love/理想の女性.mp4",
+      "wav": "generated_videos/male_love/理想の女性.wav",
+      "subtitle_image": "images/generated_videos/male_love/理想の女性_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "告白方法",
+      "title": "令和時代の告白成功率UP！最新告白方法が話題に",
+      "video": "generated_videos/male_love/告白方法.mp4",
+      "wav": "generated_videos/male_love/告白方法.wav",
+      "subtitle_image": "images/generated_videos/male_love/告白方法_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "デートプラン",
+      "title": "令和時代のデートプラン革命！AIが最適解を提案か？",
+      "video": "generated_videos/male_love/デートプラン.mp4",
+      "wav": "generated_videos/male_love/デートプラン.wav",
+      "subtitle_image": "images/generated_videos/male_love/デートプラン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "彼女を作る",
+      "title": "AIマッチングアプリ、彼女を作る男性増加で利用者急増！",
+      "video": "generated_videos/male_love/彼女を作る.mp4",
+      "wav": "generated_videos/male_love/彼女を作る.wav",
+      "subtitle_image": "images/generated_videos/male_love/彼女を作る_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "恋愛相談",
+      "title": "恋愛相談急増！AI活用マッチングアプリが話題に",
+      "video": "generated_videos/male_love/恋愛相談.mp4",
+      "wav": "generated_videos/male_love/恋愛相談.wav",
+      "subtitle_image": "images/generated_videos/male_love/恋愛相談_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "失恋克服",
+      "title": "失恋克服の新戦略！AI活用アプリが注目を集める",
+      "video": "generated_videos/male_love/失恋克服.mp4",
+      "wav": "generated_videos/male_love/失恋克服.wav",
+      "subtitle_image": "images/generated_videos/male_love/失恋克服_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "両思いになる",
+      "title": "AIが導く？恋の行方、両思いになる可能性は？最新恋愛シミュレーションが話題に",
+      "video": "generated_videos/male_love/両思いになる.mp4",
+      "wav": "generated_videos/male_love/両思いになる.wav",
+      "subtitle_image": "images/generated_videos/male_love/両思いになる_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "結婚願望",
+      "title": "晩婚化傾向に変化？男性の結婚願望、新たな兆候",
+      "video": "generated_videos/male_love/結婚願望.mp4",
+      "wav": "generated_videos/male_love/結婚願望.wav",
+      "subtitle_image": "images/generated_videos/male_love/結婚願望_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/male_love.json",
+      "keyword": "恋愛成就",
+      "title": "最新恋愛心理学！成就率UPの秘訣を徹底解説",
+      "video": "generated_videos/male_love/恋愛成就.mp4",
+      "wav": "generated_videos/male_love/恋愛成就.wav",
+      "subtitle_image": "images/generated_videos/male_love/恋愛成就_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "メンズファッション",
+      "title": "2024年春夏メンズファッション、スポーティ×エレガントがトレンドに",
+      "video": "generated_videos/mens_fashion/メンズファッション.mp4",
+      "wav": "generated_videos/mens_fashion/メンズファッション.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/メンズファッション_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "着こなし術",
+      "title": "2024年秋冬、進化するメンズ着こなし術：個性を際立たせる新トレンド",
+      "video": "generated_videos/mens_fashion/着こなし術.mp4",
+      "wav": "generated_videos/mens_fashion/着こなし術.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/着こなし術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "最新トレンド",
+      "title": "2024年春夏メンズファッション：リラックス感と個性を両立する最新トレンド",
+      "video": "generated_videos/mens_fashion/最新トレンド.mp4",
+      "wav": "generated_videos/mens_fashion/最新トレンド.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/最新トレンド_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "定番アイテム",
+      "title": "男の定番アイテム、進化の兆し！2024年秋冬トレンド予測",
+      "video": "generated_videos/mens_fashion/定番アイテム.mp4",
+      "wav": "generated_videos/mens_fashion/定番アイテム.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/定番アイテム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "大人コーデ",
+      "title": "大人コーデ需要の高まりを受け、新素材「エアリーウール」が注目を集める",
+      "video": "generated_videos/mens_fashion/大人コーデ.mp4",
+      "wav": "generated_videos/mens_fashion/大人コーデ.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/大人コーデ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "カジュアルスタイル",
+      "title": "カジュアルスタイル新潮流！着心地と洒落感を両立する新素材が注目",
+      "video": "generated_videos/mens_fashion/カジュアルスタイル.mp4",
+      "wav": "generated_videos/mens_fashion/カジュアルスタイル.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/カジュアルスタイル_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "ビジネススタイル",
+      "title": "進化するビジネススタイル：スマートカジュアルが新たな潮流に？",
+      "video": "generated_videos/mens_fashion/ビジネススタイル.mp4",
+      "wav": "generated_videos/mens_fashion/ビジネススタイル.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/ビジネススタイル_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "おしゃれアイテム",
+      "title": "今秋注目！機能性とデザイン性を両立した「魔法のリュック」が話題に",
+      "video": "generated_videos/mens_fashion/おしゃれアイテム.mp4",
+      "wav": "generated_videos/mens_fashion/おしゃれアイテム.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/おしゃれアイテム_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "着回しコーデ",
+      "title": "着回しコーデ革命！新素材「エアロニット」が注目を集める",
+      "video": "generated_videos/mens_fashion/着回しコーデ.mp4",
+      "wav": "generated_videos/mens_fashion/着回しコーデ.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/着回しコーデ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mens_fashion.json",
+      "keyword": "シルエット",
+      "title": "2024年春夏メンズファッション、リラックスシルエットがトレンドの兆し",
+      "video": "generated_videos/mens_fashion/シルエット.mp4",
+      "wav": "generated_videos/mens_fashion/シルエット.wav",
+      "subtitle_image": "images/generated_videos/mens_fashion/シルエット_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "防衛力",
+      "title": "新型レーザー防衛システムの実用化へ前進　防衛力の強化に期待",
+      "video": "generated_videos/military/防衛力.mp4",
+      "wav": "generated_videos/military/防衛力.wav",
+      "subtitle_image": "images/generated_videos/military/防衛力_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "軍事演習",
+      "title": "南太平洋合同軍事演習、想定外の事態発生か？",
+      "video": "generated_videos/military/軍事演習.mp4",
+      "wav": "generated_videos/military/軍事演習.wav",
+      "subtitle_image": "images/generated_videos/military/軍事演習_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "戦闘機",
+      "title": "新型戦闘機「迅雷」の実戦配備が来年春に決定",
+      "video": "generated_videos/military/戦闘機.mp4",
+      "wav": "generated_videos/military/戦闘機.wav",
+      "subtitle_image": "images/generated_videos/military/戦闘機_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "兵器開発",
+      "title": "次世代レーザー兵器、実用化に向け開発加速",
+      "video": "generated_videos/military/兵器開発.mp4",
+      "wav": "generated_videos/military/兵器開発.wav",
+      "subtitle_image": "images/generated_videos/military/兵器開発_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "サイバー戦",
+      "title": "新型サイバー攻撃兵器の開発、国家間緊張を高める",
+      "video": "generated_videos/military/サイバー戦.mp4",
+      "wav": "generated_videos/military/サイバー戦.wav",
+      "subtitle_image": "images/generated_videos/military/サイバー戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "特殊部隊",
+      "title": "新型無人機、特殊部隊訓練に導入へ　作戦成功率向上に期待",
+      "video": "generated_videos/military/特殊部隊.mp4",
+      "wav": "generated_videos/military/特殊部隊.wav",
+      "subtitle_image": "images/generated_videos/military/特殊部隊_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "軍事基地",
+      "title": "南方諸島に新軍事基地建設、防衛強化へ",
+      "video": "generated_videos/military/軍事基地.mp4",
+      "wav": "generated_videos/military/軍事基地.wav",
+      "subtitle_image": "images/generated_videos/military/軍事基地_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "国防予算",
+      "title": "来年度国防予算、過去最高額の見込み　防衛力強化に重点",
+      "video": "generated_videos/military/国防予算.mp4",
+      "wav": "generated_videos/military/国防予算.wav",
+      "subtitle_image": "images/generated_videos/military/国防予算_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "情報戦",
+      "title": "新型サイバー兵器、情報戦の様相を一変させる可能性",
+      "video": "generated_videos/military/情報戦.mp4",
+      "wav": "generated_videos/military/情報戦.wav",
+      "subtitle_image": "images/generated_videos/military/情報戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/military.json",
+      "keyword": "軍拡競争",
+      "title": "隣国軍拡、新たな局面へ　軍拡競争激化の可能性",
+      "video": "generated_videos/military/軍拡競争.mp4",
+      "wav": "generated_videos/military/軍拡競争.wav",
+      "subtitle_image": "images/generated_videos/military/軍拡競争_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "自動車保険",
+      "title": "AI活用で自動車保険料が最大30％削減か？ 新保険システム発表",
+      "video": "generated_videos/mobility/自動車保険.mp4",
+      "wav": "generated_videos/mobility/自動車保険.wav",
+      "subtitle_image": "images/generated_videos/mobility/自動車保険_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "燃費性能",
+      "title": "革新的エンジン搭載！新型「エコランナー」燃費性能で業界を席巻か",
+      "video": "generated_videos/mobility/燃費性能.mp4",
+      "wav": "generated_videos/mobility/燃費性能.wav",
+      "subtitle_image": "images/generated_videos/mobility/燃費性能_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "車内空間",
+      "title": "新型「スペースシップα」発表！革新的な車内空間で快適性向上",
+      "video": "generated_videos/mobility/車内空間.mp4",
+      "wav": "generated_videos/mobility/車内空間.wav",
+      "subtitle_image": "images/generated_videos/mobility/車内空間_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "安全性能",
+      "title": "新型コンパクトカー「セーフティスター」、衝撃の安全性能テスト結果を発表",
+      "video": "generated_videos/mobility/安全性能.mp4",
+      "wav": "generated_videos/mobility/安全性能.wav",
+      "subtitle_image": "images/generated_videos/mobility/安全性能_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "自動運転",
+      "title": "自動運転タクシー、郊外路線への展開に光明！実証実験で高い安全性確認",
+      "video": "generated_videos/mobility/自動運転.mp4",
+      "wav": "generated_videos/mobility/自動運転.wav",
+      "subtitle_image": "images/generated_videos/mobility/自動運転_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "電動車両",
+      "title": "革新的バッテリー搭載！新型電動車両の量産化へ",
+      "video": "generated_videos/mobility/電動車両.mp4",
+      "wav": "generated_videos/mobility/電動車両.wav",
+      "subtitle_image": "images/generated_videos/mobility/電動車両_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "ハイブリッド車",
+      "title": "新型ハイブリッド車「エコランナーZ」発売延期、供給網不安定化が影響か",
+      "video": "generated_videos/mobility/ハイブリッド車.mp4",
+      "wav": "generated_videos/mobility/ハイブリッド車.wav",
+      "subtitle_image": "images/generated_videos/mobility/ハイブリッド車_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "メンテナンス",
+      "title": "新型EV「エコランナーX」の定期メンテナンス、新たな課題浮上か",
+      "video": "generated_videos/mobility/メンテナンス.mp4",
+      "wav": "generated_videos/mobility/メンテナンス.wav",
+      "subtitle_image": "images/generated_videos/mobility/メンテナンス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "カーシェアリング",
+      "title": "カーシェアリング市場、新たな成長フェーズへ突入か？",
+      "video": "generated_videos/mobility/カーシェアリング.mp4",
+      "wav": "generated_videos/mobility/カーシェアリング.wav",
+      "subtitle_image": "images/generated_videos/mobility/カーシェアリング_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/mobility.json",
+      "keyword": "中古車市場",
+      "title": "中古車市場活性化へ！新サービス導入で需要拡大の見通し",
+      "video": "generated_videos/mobility/中古車市場.mp4",
+      "wav": "generated_videos/mobility/中古車市場.wav",
+      "subtitle_image": "images/generated_videos/mobility/中古車市場_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "家計簿管理",
+      "title": "AI搭載家計簿アプリ「家計マネ」、利用者急増でサーバー増強へ",
+      "video": "generated_videos/money_finance/家計簿管理.mp4",
+      "wav": "generated_videos/money_finance/家計簿管理.wav",
+      "subtitle_image": "images/generated_videos/money_finance/家計簿管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "節約術",
+      "title": "驚異の節約術！家計簿アプリ利用者が増加、節約額平均2万円UPの見込み",
+      "video": "generated_videos/money_finance/節約術.mp4",
+      "wav": "generated_videos/money_finance/節約術.wav",
+      "subtitle_image": "images/generated_videos/money_finance/節約術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "予算計画",
+      "title": "AI搭載家計簿アプリ、予算計画機能で人気急上昇",
+      "video": "generated_videos/money_finance/予算計画.mp4",
+      "wav": "generated_videos/money_finance/予算計画.wav",
+      "subtitle_image": "images/generated_videos/money_finance/予算計画_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "支出管理",
+      "title": "AI搭載家計簿アプリ「マネーフレンド」、支出管理の新時代へ",
+      "video": "generated_videos/money_finance/支出管理.mp4",
+      "wav": "generated_videos/money_finance/支出管理.wav",
+      "subtitle_image": "images/generated_videos/money_finance/支出管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "貯蓄方法",
+      "title": "AI搭載アプリ「貯金サポーター」登場！新たな貯蓄方法に期待高まる",
+      "video": "generated_videos/money_finance/貯蓄方法.mp4",
+      "wav": "generated_videos/money_finance/貯蓄方法.wav",
+      "subtitle_image": "images/generated_videos/money_finance/貯蓄方法_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "投資戦略",
+      "title": "若年層向け新投資戦略「未来ポートフォリオ」発表！",
+      "video": "generated_videos/money_finance/投資戦略.mp4",
+      "wav": "generated_videos/money_finance/投資戦略.wav",
+      "subtitle_image": "images/generated_videos/money_finance/投資戦略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "資産運用",
+      "title": "AIを活用した資産運用サービス、市場拡大の見通し",
+      "video": "generated_videos/money_finance/資産運用.mp4",
+      "wav": "generated_videos/money_finance/資産運用.wav",
+      "subtitle_image": "images/generated_videos/money_finance/資産運用_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "保険見直し",
+      "title": "保険見直しブーム到来？若年層の関心高まる",
+      "video": "generated_videos/money_finance/保険見直し.mp4",
+      "wav": "generated_videos/money_finance/保険見直し.wav",
+      "subtitle_image": "images/generated_videos/money_finance/保険見直し_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "副業収入",
+      "title": "副業解禁で家計改善！増加傾向の副業収入に注目",
+      "video": "generated_videos/money_finance/副業収入.mp4",
+      "wav": "generated_videos/money_finance/副業収入.wav",
+      "subtitle_image": "images/generated_videos/money_finance/副業収入_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/money_finance.json",
+      "keyword": "生活費削減",
+      "title": "食費節約レシピアプリが人気急上昇！生活費削減への期待高まる",
+      "video": "generated_videos/money_finance/生活費削減.mp4",
+      "wav": "generated_videos/money_finance/生活費削減.wav",
+      "subtitle_image": "images/generated_videos/money_finance/生活費削減_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "洗剤",
+      "title": "環境配慮型洗剤「エコクリーン」販売好調！市場シェア拡大の見通し",
+      "video": "generated_videos/necessity/洗剤.mp4",
+      "wav": "generated_videos/necessity/洗剤.wav",
+      "subtitle_image": "images/generated_videos/necessity/洗剤_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "キッチン用品",
+      "title": "画期的な省スペース調理器具が話題！キッチン用品市場に新風",
+      "video": "generated_videos/necessity/キッチン用品.mp4",
+      "wav": "generated_videos/necessity/キッチン用品.wav",
+      "subtitle_image": "images/generated_videos/necessity/キッチン用品_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "トイレタリー",
+      "title": "新素材「アクアセル」採用！トイレタリー市場に革命の兆し",
+      "video": "generated_videos/necessity/トイレタリー.mp4",
+      "wav": "generated_videos/necessity/トイレタリー.wav",
+      "subtitle_image": "images/generated_videos/necessity/トイレタリー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "収納用品",
+      "title": "画期的収納用品「スペースキューブ」発売で業界に衝撃！",
+      "video": "generated_videos/necessity/収納用品.mp4",
+      "wav": "generated_videos/necessity/収納用品.wav",
+      "subtitle_image": "images/generated_videos/necessity/収納用品_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "衣類",
+      "title": "新素材「エアロニット」採用！快適衣類市場に革命の兆し",
+      "video": "generated_videos/necessity/衣類.mp4",
+      "wav": "generated_videos/necessity/衣類.wav",
+      "subtitle_image": "images/generated_videos/necessity/衣類_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "日用品雑貨",
+      "title": "「スマート収納」ブーム到来！日用品雑貨市場に新風",
+      "video": "generated_videos/necessity/日用品雑貨.mp4",
+      "wav": "generated_videos/necessity/日用品雑貨.wav",
+      "subtitle_image": "images/generated_videos/necessity/日用品雑貨_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "消耗品",
+      "title": "新素材「ミラクルファイバー」採用！消耗品市場に革命か？",
+      "video": "generated_videos/necessity/消耗品.mp4",
+      "wav": "generated_videos/necessity/消耗品.wav",
+      "subtitle_image": "images/generated_videos/necessity/消耗品_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "掃除用品",
+      "title": "画期的な自走式掃除ロボット「クリーンライダー」発売へ",
+      "video": "generated_videos/necessity/掃除用品.mp4",
+      "wav": "generated_videos/necessity/掃除用品.wav",
+      "subtitle_image": "images/generated_videos/necessity/掃除用品_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "バス用品",
+      "title": "新素材バス用品が市場を席巻か？驚きの機能性で注目集まる",
+      "video": "generated_videos/necessity/バス用品.mp4",
+      "wav": "generated_videos/necessity/バス用品.wav",
+      "subtitle_image": "images/generated_videos/necessity/バス用品_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/necessity.json",
+      "keyword": "生活雑貨",
+      "title": "生活雑貨市場、ミニマルデザインが牽引！新トレンド到来か？",
+      "video": "generated_videos/necessity/生活雑貨.mp4",
+      "wav": "generated_videos/necessity/生活雑貨.wav",
+      "subtitle_image": "images/generated_videos/necessity/生活雑貨_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "副業探し",
+      "title": "副業探し需要の高まりを受け、マッチングアプリ型副業プラットフォームが急成長",
+      "video": "generated_videos/new_job/副業探し.mp4",
+      "wav": "generated_videos/new_job/副業探し.wav",
+      "subtitle_image": "images/generated_videos/new_job/副業探し_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "在宅ワーク",
+      "title": "在宅ワーク市場拡大！副業解禁企業増加で需要高まる見通し",
+      "video": "generated_videos/new_job/在宅ワーク.mp4",
+      "wav": "generated_videos/new_job/在宅ワーク.wav",
+      "subtitle_image": "images/generated_videos/new_job/在宅ワーク_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "スキル習得",
+      "title": "副業スキル習得支援サービス「スキルアップNEXT」が急成長！",
+      "video": "generated_videos/new_job/スキル習得.mp4",
+      "wav": "generated_videos/new_job/スキル習得.wav",
+      "subtitle_image": "images/generated_videos/new_job/スキル習得_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "独立開業",
+      "title": "AI技術活用で独立開業支援！成功率向上へ新サービス登場",
+      "video": "generated_videos/new_job/独立開業.mp4",
+      "wav": "generated_videos/new_job/独立開業.wav",
+      "subtitle_image": "images/generated_videos/new_job/独立開業_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "フリーランス",
+      "title": "フリーランス市場拡大！副業解禁で需要増加の見通し",
+      "video": "generated_videos/new_job/フリーランス.mp4",
+      "wav": "generated_videos/new_job/フリーランス.wav",
+      "subtitle_image": "images/generated_videos/new_job/フリーランス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "収益化",
+      "title": "AIイラスト生成技術、新たな副業収益化の波を予測",
+      "video": "generated_videos/new_job/収益化.mp4",
+      "wav": "generated_videos/new_job/収益化.wav",
+      "subtitle_image": "images/generated_videos/new_job/収益化_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "資産運用",
+      "title": "副業投資家の増加で、不動産投資人気に拍車！",
+      "video": "generated_videos/new_job/資産運用.mp4",
+      "wav": "generated_videos/new_job/資産運用.wav",
+      "subtitle_image": "images/generated_videos/new_job/資産運用_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "時間管理",
+      "title": "副業時代の時間管理術革命！新アプリ開発で生産性向上に期待",
+      "video": "generated_videos/new_job/時間管理.mp4",
+      "wav": "generated_videos/new_job/時間管理.wav",
+      "subtitle_image": "images/generated_videos/new_job/時間管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "顧客獲得",
+      "title": "AI活用で顧客獲得率30％UP！副業支援サービスが急成長",
+      "video": "generated_videos/new_job/顧客獲得.mp4",
+      "wav": "generated_videos/new_job/顧客獲得.wav",
+      "subtitle_image": "images/generated_videos/new_job/顧客獲得_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/new_job.json",
+      "keyword": "事業計画",
+      "title": "副業ブームで事業計画策定支援サービス急成長の兆し",
+      "video": "generated_videos/new_job/事業計画.mp4",
+      "wav": "generated_videos/new_job/事業計画.wav",
+      "subtitle_image": "images/generated_videos/new_job/事業計画_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "選挙",
+      "title": "次期市長選、無所属候補の躍進で情勢混迷の可能性",
+      "video": "generated_videos/politics/選挙.mp4",
+      "wav": "generated_videos/politics/選挙.wav",
+      "subtitle_image": "images/generated_videos/politics/選挙_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "政策",
+      "title": "新経済政策、若年層の支持獲得に課題か？世論調査で明暗",
+      "video": "generated_videos/politics/政策.mp4",
+      "wav": "generated_videos/politics/政策.wav",
+      "subtitle_image": "images/generated_videos/politics/政策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "政権",
+      "title": "新政権の経済政策、効果に期待と懸念が入り混じる",
+      "video": "generated_videos/politics/政権.mp4",
+      "wav": "generated_videos/politics/政権.wav",
+      "subtitle_image": "images/generated_videos/politics/政権_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "与党",
+      "title": "与党、新経済政策で支持率回復なるか？今後の展開に注目",
+      "video": "generated_videos/politics/与党.mp4",
+      "wav": "generated_videos/politics/与党.wav",
+      "subtitle_image": "images/generated_videos/politics/与党_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "野党",
+      "title": "野党、統一地方選に向け連携強化へ　政策合意の可能性も",
+      "video": "generated_videos/politics/野党.mp4",
+      "wav": "generated_videos/politics/野党.wav",
+      "subtitle_image": "images/generated_videos/politics/野党_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "議会",
+      "title": "新法案審議難航、議会閉会延期も視野に",
+      "video": "generated_videos/politics/議会.mp4",
+      "wav": "generated_videos/politics/議会.wav",
+      "subtitle_image": "images/generated_videos/politics/議会_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "外交",
+      "title": "日中韓首脳会談、新たな経済協力枠組み構築へ前進か",
+      "video": "generated_videos/politics/外交.mp4",
+      "wav": "generated_videos/politics/外交.wav",
+      "subtitle_image": "images/generated_videos/politics/外交_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "憲法",
+      "title": "憲法改正議論、焦点なきまま長期化の懸念",
+      "video": "generated_videos/politics/憲法.mp4",
+      "wav": "generated_videos/politics/憲法.wav",
+      "subtitle_image": "images/generated_videos/politics/憲法_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "内閣",
+      "title": "新経済政策、内閣支持率回復に繋がるか？今後の展望",
+      "video": "generated_videos/politics/内閣.mp4",
+      "wav": "generated_videos/politics/内閣.wav",
+      "subtitle_image": "images/generated_videos/politics/内閣_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/politics.json",
+      "keyword": "投票率",
+      "title": "若年層投票率向上へ、新たな啓発キャンペーンの効果に期待",
+      "video": "generated_videos/politics/投票率.mp4",
+      "wav": "generated_videos/politics/投票率.wav",
+      "subtitle_image": "images/generated_videos/politics/投票率_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "不動産投資",
+      "title": "不動産投資市場、堅調な成長見通し　低金利政策継続で需要増加か",
+      "video": "generated_videos/real_estate_investment/不動産投資.mp4",
+      "wav": "generated_videos/real_estate_investment/不動産投資.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/不動産投資_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "物件探し",
+      "title": "不動産投資向け物件探し、好立地物件への競争激化の見通し",
+      "video": "generated_videos/real_estate_investment/物件探し.mp4",
+      "wav": "generated_videos/real_estate_investment/物件探し.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/物件探し_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "収益物件",
+      "title": "空室リスク低減！新築収益物件、首都圏で人気上昇中",
+      "video": "generated_videos/real_estate_investment/収益物件.mp4",
+      "wav": "generated_videos/real_estate_investment/収益物件.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/収益物件_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "家賃収入",
+      "title": "空室リスク低減！家賃収入安定化の新戦略発表",
+      "video": "generated_videos/real_estate_investment/家賃収入.mp4",
+      "wav": "generated_videos/real_estate_investment/家賃収入.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/家賃収入_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "空室対策",
+      "title": "AIを活用した空室対策、新たなサービスが登場！",
+      "video": "generated_videos/real_estate_investment/空室対策.mp4",
+      "wav": "generated_videos/real_estate_investment/空室対策.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/空室対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "ローリスク",
+      "title": "都心近郊の区分マンション投資、ローリスクな安定収益が見込める？",
+      "video": "generated_videos/real_estate_investment/ローリスク.mp4",
+      "wav": "generated_videos/real_estate_investment/ローリスク.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/ローリスク_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "節税効果",
+      "title": "新築マンション投資、節税効果に期待高まる！",
+      "video": "generated_videos/real_estate_investment/節税効果.mp4",
+      "wav": "generated_videos/real_estate_investment/節税効果.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/節税効果_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "資産運用",
+      "title": "AI活用で不動産投資の資産運用効率化が加速か",
+      "video": "generated_videos/real_estate_investment/資産運用.mp4",
+      "wav": "generated_videos/real_estate_investment/資産運用.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/資産運用_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "キャピタルゲイン",
+      "title": "都心部マンション価格上昇、キャピタルゲイン期待高まる",
+      "video": "generated_videos/real_estate_investment/キャピタルゲイン.mp4",
+      "wav": "generated_videos/real_estate_investment/キャピタルゲイン.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/キャピタルゲイン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/real_estate_investment.json",
+      "keyword": "不動産売買",
+      "title": "都心部マンション需要の高まり、不動産売買活況続く見込み",
+      "video": "generated_videos/real_estate_investment/不動産売買.mp4",
+      "wav": "generated_videos/real_estate_investment/不動産売買.wav",
+      "subtitle_image": "images/generated_videos/real_estate_investment/不動産売買_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "せどり転売",
+      "title": "せどり転売市場、AI活用で新たな成長局面へ突入か",
+      "video": "generated_videos/reselling/せどり転売.mp4",
+      "wav": "generated_videos/reselling/せどり転売.wav",
+      "subtitle_image": "images/generated_videos/reselling/せどり転売_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "仕入れ価格",
+      "title": "仕入れ価格高騰で転売市場に逆風が吹く？専門家「今後の動向に注目」",
+      "video": "generated_videos/reselling/仕入れ価格.mp4",
+      "wav": "generated_videos/reselling/仕入れ価格.wav",
+      "subtitle_image": "images/generated_videos/reselling/仕入れ価格_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "利益率向上",
+      "title": "AI活用でせどり利益率向上！新ツール開発で市場に波紋",
+      "video": "generated_videos/reselling/利益率向上.mp4",
+      "wav": "generated_videos/reselling/利益率向上.wav",
+      "subtitle_image": "images/generated_videos/reselling/利益率向上_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "販売戦略",
+      "title": "AIを活用した転売せどり販売戦略が注目を集める",
+      "video": "generated_videos/reselling/販売戦略.mp4",
+      "wav": "generated_videos/reselling/販売戦略.wav",
+      "subtitle_image": "images/generated_videos/reselling/販売戦略_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "在庫管理",
+      "title": "AI在庫管理システム導入で転売事業者の効率化が加速か？",
+      "video": "generated_videos/reselling/在庫管理.mp4",
+      "wav": "generated_videos/reselling/在庫管理.wav",
+      "subtitle_image": "images/generated_videos/reselling/在庫管理_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "Amazon転売",
+      "title": "Amazon転売市場、年末商戦で売上高15%増の見込み",
+      "video": "generated_videos/reselling/Amazon転売.mp4",
+      "wav": "generated_videos/reselling/Amazon転売.wav",
+      "subtitle_image": "images/generated_videos/reselling/Amazon転売_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "楽天せどり",
+      "title": "楽天せどり市場、年末商戦で活況！利益率向上への期待高まる",
+      "video": "generated_videos/reselling/楽天せどり.mp4",
+      "wav": "generated_videos/reselling/楽天せどり.wav",
+      "subtitle_image": "images/generated_videos/reselling/楽天せどり_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "価格差益",
+      "title": "価格差益を狙う転売市場、新たな潮流が台頭か？",
+      "video": "generated_videos/reselling/価格差益.mp4",
+      "wav": "generated_videos/reselling/価格差益.wav",
+      "subtitle_image": "images/generated_videos/reselling/価格差益_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "ツール活用",
+      "title": "せどりツール新時代の幕開け？AI搭載ツールが市場を席巻か",
+      "video": "generated_videos/reselling/ツール活用.mp4",
+      "wav": "generated_videos/reselling/ツール活用.wav",
+      "subtitle_image": "images/generated_videos/reselling/ツール活用_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/reselling.json",
+      "keyword": "リサーチ力",
+      "title": "せどり成功のカギはリサーチ力向上にあり！最新ツール活用で売上UPの可能性",
+      "video": "generated_videos/reselling/リサーチ力.mp4",
+      "wav": "generated_videos/reselling/リサーチ力.wav",
+      "subtitle_image": "images/generated_videos/reselling/リサーチ力_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "SNS運用",
+      "title": "AI搭載SNS運用ツール「Synapse」発表、市場拡大の見通し",
+      "video": "generated_videos/sns/SNS運用.mp4",
+      "wav": "generated_videos/sns/SNS運用.wav",
+      "subtitle_image": "images/generated_videos/sns/SNS運用_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "フォロワー数",
+      "title": "若手インフルエンサー、フォロワー数急増で広告収入10倍増の見込み",
+      "video": "generated_videos/sns/フォロワー数.mp4",
+      "wav": "generated_videos/sns/フォロワー数.wav",
+      "subtitle_image": "images/generated_videos/sns/フォロワー数_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "エンゲージメント",
+      "title": "SNSエンゲージメント向上に新手法、効果測定ツール開発へ",
+      "video": "generated_videos/sns/エンゲージメント.mp4",
+      "wav": "generated_videos/sns/エンゲージメント.wav",
+      "subtitle_image": "images/generated_videos/sns/エンゲージメント_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "インフルエンサー",
+      "title": "若手インフルエンサー急増で市場活性化の見通し",
+      "video": "generated_videos/sns/インフルエンサー.mp4",
+      "wav": "generated_videos/sns/インフルエンサー.wav",
+      "subtitle_image": "images/generated_videos/sns/インフルエンサー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "炎上対策",
+      "title": "AI搭載炎上予測システム、精度向上で注目集める",
+      "video": "generated_videos/sns/炎上対策.mp4",
+      "wav": "generated_videos/sns/炎上対策.wav",
+      "subtitle_image": "images/generated_videos/sns/炎上対策_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "口コミ拡散",
+      "title": "新機能搭載アプリ、口コミ拡散で利用者急増の見込み",
+      "video": "generated_videos/sns/口コミ拡散.mp4",
+      "wav": "generated_videos/sns/口コミ拡散.wav",
+      "subtitle_image": "images/generated_videos/sns/口コミ拡散_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "トレンド分析",
+      "title": "SNSトレンド分析：猫動画ブームの終焉と新たな潮流到来か？",
+      "video": "generated_videos/sns/トレンド分析.mp4",
+      "wav": "generated_videos/sns/トレンド分析.wav",
+      "subtitle_image": "images/generated_videos/sns/トレンド分析_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "広告効果",
+      "title": "X社、新アルゴリズムでSNS広告効果15％向上見込み",
+      "video": "generated_videos/sns/広告効果.mp4",
+      "wav": "generated_videos/sns/広告効果.wav",
+      "subtitle_image": "images/generated_videos/sns/広告効果_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "コミュニティ形成",
+      "title": "新SNS「ConnectVerse」コミュニティ形成支援機能で利用者急増の見込み",
+      "video": "generated_videos/sns/コミュニティ形成.mp4",
+      "wav": "generated_videos/sns/コミュニティ形成.wav",
+      "subtitle_image": "images/generated_videos/sns/コミュニティ形成_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sns.json",
+      "keyword": "ソーシャルリスニング",
+      "title": "新ツール導入でソーシャルリスニング精度向上、炎上リスク低減の見通し",
+      "video": "generated_videos/sns/ソーシャルリスニング.mp4",
+      "wav": "generated_videos/sns/ソーシャルリスニング.wav",
+      "subtitle_image": "images/generated_videos/sns/ソーシャルリスニング_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "ワールドカップ",
+      "title": "日本代表、W杯出場に向け新戦術で強化合宿開始",
+      "video": "generated_videos/soccer/ワールドカップ.mp4",
+      "wav": "generated_videos/soccer/ワールドカップ.wav",
+      "subtitle_image": "images/generated_videos/soccer/ワールドカップ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "リーグ戦",
+      "title": "Aリーグ、後半戦に向け新たな戦力獲得へ！優勝争い激化か？",
+      "video": "generated_videos/soccer/リーグ戦.mp4",
+      "wav": "generated_videos/soccer/リーグ戦.wav",
+      "subtitle_image": "images/generated_videos/soccer/リーグ戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "決勝戦",
+      "title": "決勝戦進出をかけた激闘！Aチーム、勝利の可能性高まる",
+      "video": "generated_videos/soccer/決勝戦.mp4",
+      "wav": "generated_videos/soccer/決勝戦.wav",
+      "subtitle_image": "images/generated_videos/soccer/決勝戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "得点王",
+      "title": "驚異の得点力で！若きストライカー、得点王への道を突き進む！",
+      "video": "generated_videos/soccer/得点王.mp4",
+      "wav": "generated_videos/soccer/得点王.wav",
+      "subtitle_image": "images/generated_videos/soccer/得点王_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "オフサイド",
+      "title": "VAR判定見直しでオフサイド基準変更の可能性？サッカー界に激震",
+      "video": "generated_videos/soccer/オフサイド.mp4",
+      "wav": "generated_videos/soccer/オフサイド.wav",
+      "subtitle_image": "images/generated_videos/soccer/オフサイド_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "フリーキック",
+      "title": "新戦術「回転フリーキック」で勝利の可能性！Aチーム躍進の鍵か",
+      "video": "generated_videos/soccer/フリーキック.mp4",
+      "wav": "generated_videos/soccer/フリーキック.wav",
+      "subtitle_image": "images/generated_videos/soccer/フリーキック_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "パス",
+      "title": "新戦術「サイレントパス」で攻撃の幅拡大か？",
+      "video": "generated_videos/soccer/パス.mp4",
+      "wav": "generated_videos/soccer/パス.wav",
+      "subtitle_image": "images/generated_videos/soccer/パス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "シュート",
+      "title": "新開発「サイクロンシュート」で得点力向上に期待！",
+      "video": "generated_videos/soccer/シュート.mp4",
+      "wav": "generated_videos/soccer/シュート.wav",
+      "subtitle_image": "images/generated_videos/soccer/シュート_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "ゴールキーパー",
+      "title": "新鋭GK、驚異のセービング率で注目！Jリーグ昇格の可能性大",
+      "video": "generated_videos/soccer/ゴールキーパー.mp4",
+      "wav": "generated_videos/soccer/ゴールキーパー.wav",
+      "subtitle_image": "images/generated_videos/soccer/ゴールキーパー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/soccer.json",
+      "keyword": "サッカー日本代表",
+      "title": "次世代エース候補、山田涼介選手の代表入り濃厚か？",
+      "video": "generated_videos/soccer/サッカー日本代表.mp4",
+      "wav": "generated_videos/soccer/サッカー日本代表.wav",
+      "subtitle_image": "images/generated_videos/soccer/サッカー日本代表_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "野球",
+      "title": "新鋭投手・佐藤、驚異の球速でプロ入り目前か！",
+      "video": "generated_videos/sports/野球.mp4",
+      "wav": "generated_videos/sports/野球.wav",
+      "subtitle_image": "images/generated_videos/sports/野球_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "サッカー",
+      "title": "U-20代表、新たな戦術でW杯制覇の可能性！",
+      "video": "generated_videos/sports/サッカー.mp4",
+      "wav": "generated_videos/sports/サッカー.wav",
+      "subtitle_image": "images/generated_videos/sports/サッカー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "マラソン",
+      "title": "驚異の新記録！M高専生、マラソンで日本人最年少優勝の可能性",
+      "video": "generated_videos/sports/マラソン.mp4",
+      "wav": "generated_videos/sports/マラソン.wav",
+      "subtitle_image": "images/generated_videos/sports/マラソン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "オリンピック",
+      "title": "冬季オリンピック開催国決定、新たな課題浮上か",
+      "video": "generated_videos/sports/オリンピック.mp4",
+      "wav": "generated_videos/sports/オリンピック.wav",
+      "subtitle_image": "images/generated_videos/sports/オリンピック_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "試合結果",
+      "title": "Aチーム、接戦の末勝利！優勝の可能性高まる",
+      "video": "generated_videos/sports/試合結果.mp4",
+      "wav": "generated_videos/sports/試合結果.wav",
+      "subtitle_image": "images/generated_videos/sports/試合結果_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "スポーツニュース",
+      "title": "Aリーグ決勝、延長戦突入！劇的勝利なるか",
+      "video": "generated_videos/sports/スポーツニュース.mp4",
+      "wav": "generated_videos/sports/スポーツニュース.wav",
+      "subtitle_image": "images/generated_videos/sports/スポーツニュース_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "熱戦",
+      "title": "Aリーグ決勝！熱戦の末、王者決定！",
+      "video": "generated_videos/sports/熱戦.mp4",
+      "wav": "generated_videos/sports/熱戦.wav",
+      "subtitle_image": "images/generated_videos/sports/熱戦_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "新記録",
+      "title": "女子マラソンで驚異の新記録！M・スズキ選手が2時間17分台を達成",
+      "video": "generated_videos/sports/新記録.mp4",
+      "wav": "generated_videos/sports/新記録.wav",
+      "subtitle_image": "images/generated_videos/sports/新記録_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "プロ野球",
+      "title": "Aチーム、若手投手躍進で優勝争い本格化！",
+      "video": "generated_videos/sports/プロ野球.mp4",
+      "wav": "generated_videos/sports/プロ野球.wav",
+      "subtitle_image": "images/generated_videos/sports/プロ野球_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "ケーキ作り",
+      "title": "進化系デコレーション！立体ケーキが人気急上昇中",
+      "video": "generated_videos/sweets_cooking/ケーキ作り.mp4",
+      "wav": "generated_videos/sweets_cooking/ケーキ作り.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/ケーキ作り_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "クッキー生地",
+      "title": "新食感クッキー生地が話題！売上倍増の可能性",
+      "video": "generated_videos/sweets_cooking/クッキー生地.mp4",
+      "wav": "generated_videos/sweets_cooking/クッキー生地.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/クッキー生地_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "デコレーション",
+      "title": "スイーツデコレーションの新トレンド！食べられる花が人気急上昇",
+      "video": "generated_videos/sweets_cooking/デコレーション.mp4",
+      "wav": "generated_videos/sweets_cooking/デコレーション.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/デコレーション_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "焼き菓子",
+      "title": "話題の「魔法の型」で焼き菓子革命？販売開始で業界に衝撃",
+      "video": "generated_videos/sweets_cooking/焼き菓子.mp4",
+      "wav": "generated_videos/sweets_cooking/焼き菓子.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/焼き菓子_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "生菓子",
+      "title": "生菓子需要拡大！新食感ムースが市場を席巻か？",
+      "video": "generated_videos/sweets_cooking/生菓子.mp4",
+      "wav": "generated_videos/sweets_cooking/生菓子.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/生菓子_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "チョコレート",
+      "title": "幻のシングルオリジンカカオ使用！新チョコトレンド到来か？",
+      "video": "generated_videos/sweets_cooking/チョコレート.mp4",
+      "wav": "generated_videos/sweets_cooking/チョコレート.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/チョコレート_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "マフィンレシピ",
+      "title": "話題沸騰！進化系マフィンレシピがスイーツ界に新風を巻き起こす！",
+      "video": "generated_videos/sweets_cooking/マフィンレシピ.mp4",
+      "wav": "generated_videos/sweets_cooking/マフィンレシピ.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/マフィンレシピ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "簡単レシピ",
+      "title": "時短！混ぜるだけスイーツが人気急上昇中！",
+      "video": "generated_videos/sweets_cooking/簡単レシピ.mp4",
+      "wav": "generated_videos/sweets_cooking/簡単レシピ.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/簡単レシピ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "製菓材料",
+      "title": "希少なカカオ豆使用！新製菓材料が話題に",
+      "video": "generated_videos/sweets_cooking/製菓材料.mp4",
+      "wav": "generated_videos/sweets_cooking/製菓材料.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/製菓材料_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_cooking.json",
+      "keyword": "バレンタイン",
+      "title": "バレンタイン需要、チョコ以外にシフト？焼き菓子人気急上昇の兆候",
+      "video": "generated_videos/sweets_cooking/バレンタイン.mp4",
+      "wav": "generated_videos/sweets_cooking/バレンタイン.wav",
+      "subtitle_image": "images/generated_videos/sweets_cooking/バレンタイン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "絶品スイーツ",
+      "title": "幻のチーズケーキが復活！絶品スイーツに長蛇の列",
+      "video": "generated_videos/sweets_gourmet/絶品スイーツ.mp4",
+      "wav": "generated_videos/sweets_gourmet/絶品スイーツ.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/絶品スイーツ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "濃厚チョコ",
+      "title": "幻のトリュフ使用！濃厚チョコスイーツが話題沸騰中",
+      "video": "generated_videos/sweets_gourmet/濃厚チョコ.mp4",
+      "wav": "generated_videos/sweets_gourmet/濃厚チョコ.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/濃厚チョコ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "ふわふわケーキ",
+      "title": "新食感！奇跡のふわふわケーキが話題に",
+      "video": "generated_videos/sweets_gourmet/ふわふわケーキ.mp4",
+      "wav": "generated_videos/sweets_gourmet/ふわふわケーキ.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/ふわふわケーキ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "上品な甘さ",
+      "title": "「大人のための極上ショコラ」新登場！上品な甘さが話題に",
+      "video": "generated_videos/sweets_gourmet/上品な甘さ.mp4",
+      "wav": "generated_videos/sweets_gourmet/上品な甘さ.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/上品な甘さ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "季節の果物",
+      "title": "秋の味覚到来！栗と柿のスイーツ新商品が続々登場！",
+      "video": "generated_videos/sweets_gourmet/季節の果物.mp4",
+      "wav": "generated_videos/sweets_gourmet/季節の果物.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/季節の果物_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "手作り菓子",
+      "title": "手作り菓子ブーム到来？SNS映えスイーツが売上を牽引",
+      "video": "generated_videos/sweets_gourmet/手作り菓子.mp4",
+      "wav": "generated_videos/sweets_gourmet/手作り菓子.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/手作り菓子_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "焼き菓子",
+      "title": "人気パティシエ考案！新食感焼き菓子が話題に",
+      "video": "generated_videos/sweets_gourmet/焼き菓子.mp4",
+      "wav": "generated_videos/sweets_gourmet/焼き菓子.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/焼き菓子_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "生菓子",
+      "title": "幻の生菓子「月影」復活なるか？生産再開の可能性に期待高まる",
+      "video": "generated_videos/sweets_gourmet/生菓子.mp4",
+      "wav": "generated_videos/sweets_gourmet/生菓子.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/生菓子_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "人気デザート",
+      "title": "新食感スイーツ「ムーンプリン」人気デザートの仲間入りなるか？",
+      "video": "generated_videos/sweets_gourmet/人気デザート.mp4",
+      "wav": "generated_videos/sweets_gourmet/人気デザート.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/人気デザート_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/sweets_gourmet.json",
+      "keyword": "カフェスイーツ",
+      "title": "話題のカフェスイーツ専門店「Sweet Harmony」が新メニュー発表！",
+      "video": "generated_videos/sweets_gourmet/カフェスイーツ.mp4",
+      "wav": "generated_videos/sweets_gourmet/カフェスイーツ.wav",
+      "subtitle_image": "images/generated_videos/sweets_gourmet/カフェスイーツ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "AI技術",
+      "title": "AI技術革新が物流業界に革命をもたらすか？無人配送システムの実証実験開始",
+      "video": "generated_videos/technology/AI技術.mp4",
+      "wav": "generated_videos/technology/AI技術.wav",
+      "subtitle_image": "images/generated_videos/technology/AI技術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "量子コンピュータ",
+      "title": "量子コンピュータ開発、新たなブレイクスルーの可能性",
+      "video": "generated_videos/technology/量子コンピュータ.mp4",
+      "wav": "generated_videos/technology/量子コンピュータ.wav",
+      "subtitle_image": "images/generated_videos/technology/量子コンピュータ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "IoTデバイス",
+      "title": "スマートホームIoTデバイス市場、年率20%成長の見通し",
+      "video": "generated_videos/technology/IoTデバイス.mp4",
+      "wav": "generated_videos/technology/IoTデバイス.wav",
+      "subtitle_image": "images/generated_videos/technology/IoTデバイス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "VR・AR",
+      "title": "次世代VR・AR技術「ルミナス」発表、没入感向上に期待",
+      "video": "generated_videos/technology/VR・AR.mp4",
+      "wav": "generated_videos/technology/VR・AR.wav",
+      "subtitle_image": "images/generated_videos/technology/VR・AR_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "メタバース",
+      "title": "メタバース空間での不動産取引、急増の見込み",
+      "video": "generated_videos/technology/メタバース.mp4",
+      "wav": "generated_videos/technology/メタバース.wav",
+      "subtitle_image": "images/generated_videos/technology/メタバース_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "ブロックチェーン",
+      "title": "分散型IDシステム「ChainID」が本格運用開始、個人データ管理革命の可能性",
+      "video": "generated_videos/technology/ブロックチェーン.mp4",
+      "wav": "generated_videos/technology/ブロックチェーン.wav",
+      "subtitle_image": "images/generated_videos/technology/ブロックチェーン_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "サイバーセキュリティ",
+      "title": "AI搭載セキュリティシステム、新たな脅威への対策に期待",
+      "video": "generated_videos/technology/サイバーセキュリティ.mp4",
+      "wav": "generated_videos/technology/サイバーセキュリティ.wav",
+      "subtitle_image": "images/generated_videos/technology/サイバーセキュリティ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "ビッグデータ",
+      "title": "AI予測精度向上に貢献か？ 新ビッグデータ解析技術が開発される",
+      "video": "generated_videos/technology/ビッグデータ.mp4",
+      "wav": "generated_videos/technology/ビッグデータ.wav",
+      "subtitle_image": "images/generated_videos/technology/ビッグデータ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "クラウドサービス",
+      "title": "新興企業A社、AI搭載クラウドサービスで市場拡大の見通し",
+      "video": "generated_videos/technology/クラウドサービス.mp4",
+      "wav": "generated_videos/technology/クラウドサービス.wav",
+      "subtitle_image": "images/generated_videos/technology/クラウドサービス_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/technology.json",
+      "keyword": "G通信",
+      "title": "G通信、次世代通信規格「G5」開発本格化へ",
+      "video": "generated_videos/technology/G通信.mp4",
+      "wav": "generated_videos/technology/G通信.wav",
+      "subtitle_image": "images/generated_videos/technology/G通信_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "新商品発表",
+      "title": "革新的スマートウォッチ「ChronoNova」新商品発表！健康管理機能に特化",
+      "video": "generated_videos/trend/新商品発表.mp4",
+      "wav": "generated_videos/trend/新商品発表.wav",
+      "subtitle_image": "images/generated_videos/trend/新商品発表_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "社会現象",
+      "title": "「ソロ活」ブーム、新たな社会現象へ？専門家が見解",
+      "video": "generated_videos/trend/社会現象.mp4",
+      "wav": "generated_videos/trend/社会現象.wav",
+      "subtitle_image": "images/generated_videos/trend/社会現象_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "話題沸騰",
+      "title": "新型万能調味料「ミラクルスパイス」が話題沸騰！",
+      "video": "generated_videos/trend/話題沸騰.mp4",
+      "wav": "generated_videos/trend/話題沸騰.wav",
+      "subtitle_image": "images/generated_videos/trend/話題沸騰_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "人気急上昇",
+      "title": "AI搭載お絵描きアプリ「ペイントマジック」人気急上昇！",
+      "video": "generated_videos/trend/人気急上昇.mp4",
+      "wav": "generated_videos/trend/人気急上昇.wav",
+      "subtitle_image": "images/generated_videos/trend/人気急上昇_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "注目集まる",
+      "title": "新型宇宙望遠鏡「アストラル」開発、注目集まる",
+      "video": "generated_videos/trend/注目集まる.mp4",
+      "wav": "generated_videos/trend/注目集まる.wav",
+      "subtitle_image": "images/generated_videos/trend/注目集まる_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "大反響",
+      "title": "新型エコバッグ「未来パック」発売、大反響！環境問題への意識高まる",
+      "video": "generated_videos/trend/大反響.mp4",
+      "wav": "generated_videos/trend/大反響.wav",
+      "subtitle_image": "images/generated_videos/trend/大反響_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "トレンド入り",
+      "title": "謎の猫動画、SNSでトレンド入り！新たな人気コンテンツの予感",
+      "video": "generated_videos/trend/トレンド入り.mp4",
+      "wav": "generated_videos/trend/トレンド入り.wav",
+      "subtitle_image": "images/generated_videos/trend/トレンド入り_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "ネット騒然",
+      "title": "AI搭載新型掃除ロボット、予期せぬ行動でネット騒然",
+      "video": "generated_videos/trend/ネット騒然.mp4",
+      "wav": "generated_videos/trend/ネット騒然.wav",
+      "subtitle_image": "images/generated_videos/trend/ネット騒然_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "衝撃的事件",
+      "title": "謎の飛行物体出現、全国で衝撃的事件の可能性",
+      "video": "generated_videos/trend/衝撃的事件.mp4",
+      "wav": "generated_videos/trend/衝撃的事件.wav",
+      "subtitle_image": "images/generated_videos/trend/衝撃的事件_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/trend.json",
+      "keyword": "意外な事実",
+      "title": "猫カフェの客層調査で意外な事実が判明！",
+      "video": "generated_videos/trend/意外な事実.mp4",
+      "wav": "generated_videos/trend/意外な事実.wav",
+      "subtitle_image": "images/generated_videos/trend/意外な事実_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "ワンピース",
+      "title": "「着回し力抜群」ワンピースがトレンド席巻！着こなし提案で売上急増の見込み",
+      "video": "generated_videos/womens_fashion/ワンピース.mp4",
+      "wav": "generated_videos/womens_fashion/ワンピース.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/ワンピース_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "スカートコーデ",
+      "title": "今季トレンド！ロングスカートコーデが街を席巻か？",
+      "video": "generated_videos/womens_fashion/スカートコーデ.mp4",
+      "wav": "generated_videos/womens_fashion/スカートコーデ.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/スカートコーデ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "トレンドファッション",
+      "title": "2024年春夏、Y2Kとミニマルが融合？トレンドファッションの最新予測",
+      "video": "generated_videos/womens_fashion/トレンドファッション.mp4",
+      "wav": "generated_videos/womens_fashion/トレンドファッション.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/トレンドファッション_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "着回し術",
+      "title": "着回し術マスターで秋の着こなしを制する！最新トレンドアイテム活用法",
+      "video": "generated_videos/womens_fashion/着回し術.mp4",
+      "wav": "generated_videos/womens_fashion/着回し術.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/着回し術_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "きれいめスタイル",
+      "title": "きれいめスタイル進化中！2024年春夏トレンド予測",
+      "video": "generated_videos/womens_fashion/きれいめスタイル.mp4",
+      "wav": "generated_videos/womens_fashion/きれいめスタイル.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/きれいめスタイル_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "大人可愛い",
+      "title": "大人可愛いがトレンド！新ブランド「Cherir」が人気沸騰中",
+      "video": "generated_videos/womens_fashion/大人可愛い.mp4",
+      "wav": "generated_videos/womens_fashion/大人可愛い.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/大人可愛い_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "シンプルコーデ",
+      "title": "ミニマルブーム再来？シンプルコーデが2024年秋冬トレンドの兆し",
+      "video": "generated_videos/womens_fashion/シンプルコーデ.mp4",
+      "wav": "generated_videos/womens_fashion/シンプルコーデ.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/シンプルコーデ_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "体型カバー",
+      "title": "体型カバーの新常識！魔法のワンピースが話題に",
+      "video": "generated_videos/womens_fashion/体型カバー.mp4",
+      "wav": "generated_videos/womens_fashion/体型カバー.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/体型カバー_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "春夏新作",
+      "title": "トレンドカラーが勢揃い！春夏新作コレクション発表で業界に活気",
+      "video": "generated_videos/womens_fashion/春夏新作.mp4",
+      "wav": "generated_videos/womens_fashion/春夏新作.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/春夏新作_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/womens_fashion.json",
+      "keyword": "ブーツ特集",
+      "title": "秋冬の足元はコレ！注目のブーツ特集が話題沸騰中",
+      "video": "generated_videos/womens_fashion/ブーツ特集.mp4",
+      "wav": "generated_videos/womens_fashion/ブーツ特集.wav",
+      "subtitle_image": "images/generated_videos/womens_fashion/ブーツ特集_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "国際協力",
+      "title": "南極観測協力強化へ、国際会議で合意見通し",
+      "video": "generated_videos/world/国際協力.mp4",
+      "wav": "generated_videos/world/国際協力.wav",
+      "subtitle_image": "images/generated_videos/world/国際協力_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "地球環境",
+      "title": "新素材「エアロゲル」が地球環境問題解決に貢献か？",
+      "video": "generated_videos/world/地球環境.mp4",
+      "wav": "generated_videos/world/地球環境.wav",
+      "subtitle_image": "images/generated_videos/world/地球環境_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "文化交流",
+      "title": "日伊友好親善：伝統工芸の文化交流が新たな展開へ",
+      "video": "generated_videos/world/文化交流.mp4",
+      "wav": "generated_videos/world/文化交流.wav",
+      "subtitle_image": "images/generated_videos/world/文化交流_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "経済成長",
+      "title": "南米X国、驚異的な経済成長で世界を驚かせる",
+      "video": "generated_videos/world/経済成長.mp4",
+      "wav": "generated_videos/world/経済成長.wav",
+      "subtitle_image": "images/generated_videos/world/経済成長_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "歴史遺産",
+      "title": "古代都市遺跡、新たな壁画発見の可能性　歴史遺産保護に期待",
+      "video": "generated_videos/world/歴史遺産.mp4",
+      "wav": "generated_videos/world/歴史遺産.wav",
+      "subtitle_image": "images/generated_videos/world/歴史遺産_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "人口問題",
+      "title": "世界人口増加、食糧危機の可能性浮上　新たな対策が急務",
+      "video": "generated_videos/world/人口問題.mp4",
+      "wav": "generated_videos/world/人口問題.wav",
+      "subtitle_image": "images/generated_videos/world/人口問題_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "紛争解決",
+      "title": "南極資源開発をめぐる国連紛争解決に向け前進か",
+      "video": "generated_videos/world/紛争解決.mp4",
+      "wav": "generated_videos/world/紛争解決.wav",
+      "subtitle_image": "images/generated_videos/world/紛争解決_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "グローバル化",
+      "title": "グローバル化の逆風、新興国経済に影",
+      "video": "generated_videos/world/グローバル化.mp4",
+      "wav": "generated_videos/world/グローバル化.wav",
+      "subtitle_image": "images/generated_videos/world/グローバル化_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "食糧危機",
+      "title": "異常気象で食糧危機深刻化、国際機関が警鐘",
+      "video": "generated_videos/world/食糧危機.mp4",
+      "wav": "generated_videos/world/食糧危機.wav",
+      "subtitle_image": "images/generated_videos/world/食糧危機_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    },
+    {
+      "json": "generated_news/world.json",
+      "keyword": "気候変動",
+      "title": "南極氷床融解加速、海面上昇リスク増加の見通し",
+      "video": "generated_videos/world/気候変動.mp4",
+      "wav": "generated_videos/world/気候変動.wav",
+      "subtitle_image": "images/generated_videos/world/気候変動_subtitle.jpg",
+      "duration_sec": null,
+      "fps": null
+    }
+  ],
+  "failures": [
+    {
+      "json": "generated_news/sports.json",
+      "keyword": "優勝",
+      "title": "白熱の決勝戦！Aチーム、リーグ優勝へ王手！",
+      "error": "[Errno 32] Broken pipe\n\nMoviePy error: FFMPEG encountered the following error while writing file generated_videos/sports/優勝.mp4:\n\n b'[libx264 @ 0x149615a90] height not divisible by 2 (650x433)\\n[vost#0:0/libx264 @ 0x1496156b0] Error while opening encoder - maybe incorrect parameters such as bit_rate, rate, width or height.\\n[vf#0:0 @ 0x149616270] Error sending frames to consumers: Generic error in an external library\\n[vf#0:0 @ 0x149616270] Task finished with error code: -542398533 (Generic error in an external library)\\n[vf#0:0 @ 0x149616270] Terminating thread with return code -542398533 (Generic error in an external library)\\n[vost#0:0/libx264 @ 0x1496156b0] Could not open encoder before EOF\\n[vost#0:0/libx264 @ 0x1496156b0] Task finished with error code: -22 (Invalid argument)\\n[vost#0:0/libx264 @ 0x1496156b0] Terminating thread with return code -22 (Invalid argument)\\n[out#0/mp4 @ 0x149614210] Nothing was written into output file, because at least one of its streams received no packets.\\n'"
+    }
+  ]
+}
