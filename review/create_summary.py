@@ -3,60 +3,71 @@
 
 import json
 from pathlib import Path
+from moviepy.editor import VideoFileClip  # pip install moviepy
+from tqdm import tqdm  # pip install tqdm
 
-# ルート（このスクリプトを置いた場所を基準にしたい場合はそのまま）
 ROOT = Path(__file__).resolve().parent
-
 NEWS_DIR = ROOT / "generated_news"
 VIDEO_DIR = ROOT / "generated_videos"
 IMAGE_DIR = ROOT / "generated_images"
 OUTPUT_PATH = ROOT / "summary.json"
 
+def get_video_duration(video_path: Path):
+    if not video_path.exists():
+        return None
+    try:
+        with VideoFileClip(str(video_path)) as clip:
+            return int(clip.duration)
+    except Exception as e:
+        print(f"⚠️ 動画の長さ取得失敗: {video_path} ({e})")
+        return None
+
 def build_summary():
-    if not NEWS_DIR.exists():
-        raise FileNotFoundError(f"ニュースディレクトリが見つかりません: {NEWS_DIR}")
+    summary = []
 
-    summary = []  # すべてのカテゴリを一つにまとめる
-
-    # generated_news 配下の *.json を走査
-    for news_json in sorted(NEWS_DIR.glob("*.json")):
-        category = news_json.stem  # 例: baseball.json -> "baseball"
-
-        # ニュース JSON を読み込み（配列形式を想定）
+    # 全ニュースの総件数をカウント（進捗バーのmaxに必要）
+    total_items = 0
+    for news_json in NEWS_DIR.glob("*.json"):
         try:
             items = json.loads(news_json.read_text(encoding="utf-8"))
-        except json.JSONDecodeError as e:
-            raise ValueError(f"JSON パースに失敗しました: {news_json} ({e})")
+            if isinstance(items, list):
+                total_items += len(items)
+        except:
+            pass
 
-        if not isinstance(items, list):
-            raise ValueError(f"配列形式の JSON を想定しています: {news_json}")
+    # tqdm で進捗バー表示
+    with tqdm(total=total_items, desc="処理中", ncols=100) as pbar:
+        for news_json in sorted(NEWS_DIR.glob("*.json")):
+            category = news_json.stem
+            items = json.loads(news_json.read_text(encoding="utf-8"))
+            if not isinstance(items, list):
+                continue
 
-        for i, item in enumerate(items, start=1):
-            # 必須キーの取得（無ければ空文字に）
-            keyword = str(item.get("keyword", "")).strip()
-            title   = str(item.get("title", "")).strip()
-            body    = str(item.get("body", "")).strip()
+            for item in items:
+                keyword = str(item.get("keyword", "")).strip()
+                title   = str(item.get("title", "")).strip()
+                body    = str(item.get("body", "")).strip()
 
-            # ファイル名は keyword と一致する前提（拡張子固定）
-            # 例: generated_videos/baseball/ピッチャー.mp4
-            #     generated_images/baseball/ピッチャー.png
-            video_path = (VIDEO_DIR / category / f"{keyword}.mp4")
-            image_path = (IMAGE_DIR / category / f"{keyword}.png")
+                video_path = VIDEO_DIR / category / f"{keyword}.mp4"
+                image_path = IMAGE_DIR / category / f"{keyword}.png"
 
-            # 実在チェック。無ければ None を入れる
-            video_str = str(video_path.relative_to(ROOT)) if video_path.exists() else None
-            image_str = str(image_path.relative_to(ROOT)) if image_path.exists() else None
+                video_str = str(video_path.relative_to(ROOT)) if video_path.exists() else None
+                image_str = str(image_path.relative_to(ROOT)) if image_path.exists() else None
+                total_seconds = get_video_duration(video_path) if video_path.exists() else None
 
-            summary.append({
-                "category": category,
-                "keyword": keyword,
-                "title": title,
-                "body": body,
-                "video_path": video_str,
-                "image_path": image_str,
-            })
+                summary.append({
+                    "category": category,
+                    "keyword": keyword,
+                    "title": title,
+                    "body": body,
+                    "video_path": video_str,
+                    "image_path": image_str,
+                    "total_seconds": total_seconds,
+                })
 
-    # まとめて書き出し（UTF-8・日本語可・インデント付き）
+                # append 後に進捗を1つ進める
+                pbar.update(1)
+
     OUTPUT_PATH.write_text(
         json.dumps(summary, ensure_ascii=False, indent=2),
         encoding="utf-8"
