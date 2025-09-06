@@ -1,4 +1,5 @@
 {
   "versions": {
+    "2.1": {"ios_released": false, "android_released": false}
   }
 }
