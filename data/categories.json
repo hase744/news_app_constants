@@ -1,4 +1,12 @@
 {
+  "top": { 
+    "japanese_name":"トップ", 
+    "enumerations_group": "top", 
+    "start_at": "2025-01-01T00:00:00.000 +0900",
+    "is_default": true, 
+    "is_formal": true, 
+    "emoji": "📰"
+  },
   "business": { 
     "japanese_name":"ビジネス", 
     "enumerations_group": "business", 

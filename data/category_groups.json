@@ -1,6 +1,6 @@
 {
   "news": {
-    "categories": ["business", "politics", "economy", "world", "trend", "sports"],
+    "categories": ["top", "business", "politics", "economy", "world", "trend", "sports"],
     "japanese_name": "一般ニュース",
     "name": "news"
   },
