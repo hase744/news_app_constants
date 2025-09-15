@@ -44,6 +44,7 @@
   
   {"url": "https://www.youtube.com/@takamatsuch", "categories": "politics other"},
   {"url": "https://www.youtube.com/@NewsPicks", "categories": "top business technology"},
+  {"url": "https://www.youtube.com/@NewbeeTech", "categories": "business technology"},
   {"url": "https://www.youtube.com/@diy4600", "categories": "politics economy"},
   {"url": "https://www.youtube.com/@tsj_otb", "categories": "world"},
   {"url": "https://www.youtube.com/@user-uy4cr9se8j", "categories": "world"},
@@ -79,6 +80,7 @@
   {"url": "https://www.youtube.com/@shigeharuaoyama", "categories": "politics"},
   {"url": "https://www.youtube.com/@poponpgunyan-jiji", "categories": "politics"},
   {"url": "https://www.youtube.com/@lim-breaker", "categories": "politics economy business"},
+  {"url": "https://www.youtube.com/@IOG2022", "categories": "politics economy business technology"},
   {"url": "https://www.youtube.com/@nihonma", "categories": "business"},
   
   {"url": "https://www.youtube.com/@user-du7gi7mt4w", "categories": "world"},
@@ -98,7 +100,6 @@
   {"url": "https://www.youtube.com/@semiconductor-industry", "categories": "technology"},
   {"url": "https://www.youtube.com/@AMANOSCOPE", "categories": "technology business"},
   {"url": "https://www.youtube.com/@remote-work", "categories": "technology business"},
-  {"url": "https://www.youtube.com/@THE-CREATIVE-ACADEMY", "categories": "technology business"},
   {"url": "https://www.youtube.com/@bouncy", "categories": "technology business"},
   {"url": "https://www.youtube.com/@nikkei", "categories": "business technology"},
   {"url": "https://www.youtube.com/@UpdataTV", "categories": "technology business"},
@@ -108,8 +109,12 @@
   {"url": "https://www.youtube.com/@tech_jp", "categories": "technology other"},
   {"url": "https://www.youtube.com/@astonishment-news", "categories": "technology other"},
   {"url": "https://www.youtube.com/@bitsbbit", "categories": "technology business"},
+  {"url": "https://www.youtube.com/@SoftBankBiz", "categories": "technology business it_tool"},
   {"url": "https://www.youtube.com/@neotechworld00", "categories": "technology"},
   {"url": "https://www.youtube.com/@すごテクノロジー", "categories": "technology"},
+  {"url": "https://www.youtube.com/@channel-tx2qz", "categories": "technology"},
+  {"url": "https://www.youtube.com/@NEOTechWorld00", "categories": "technology"},
+  {"url": "https://www.youtube.com/@s_nakajima", "categories": "technology business"},
   {"url": "https://www.youtube.com/@プレジデント公式チャンネル", "categories": "business politics economy world"},
 
   {"url": "https://www.youtube.com/@manabusiness", "categories": "business"},
@@ -145,10 +150,14 @@
   {"url": "https://www.youtube.com/@kitatatsu_hr", "categories": "business"},
   {"url": "https://www.youtube.com/@SolutionShelf", "categories": "business"},
   {"url": "https://www.youtube.com/shorts/Cs2RvfPMB80", "categories": "business"},
+  {"url": "https://www.youtube.com/@hojokinlabo", "categories": "business"},
+  {"url": "https://www.youtube.com/@nagata_rappa", "categories": "business"},
+  {"url": "https://www.youtube.com/@THE-CREATIVE-ACADEMY", "categories": "business"},
   {"url": "https://www.youtube.com/@eigyoujoshi", "categories": "sales other"},
   {"url": "https://www.youtube.com/@nensyu_channel", "categories": "business new_job sales"},
   {"url": "https://www.youtube.com/@user-xe6sn4if8b", "categories": "business equity_investment money_finance real_estate_investment"},
   {"url": "https://www.youtube.com/@箕輪厚介の部屋", "categories": "business trend"},
+  {"url": "https://www.youtube.com/@innochan_jbpress", "categories": "business politics"},
 
   {"url": "https://www.youtube.com/@sokketsu", "categories": "sales"},
   {"url": "https://www.youtube.com/@topsales310", "categories": "sales"},
@@ -184,6 +193,8 @@
   {"url": "https://www.youtube.com/@3utsu", "categories": "career"},
   {"url": "https://www.youtube.com/@DEiBA_Company", "categories": "career"},
   {"url": "https://www.youtube.com/@carinaryhc", "categories": "career"},
+  {"url": "https://www.youtube.com/@nensyu_bakuage", "categories": "career"},
+  {"url": "https://www.youtube.com/@sincereed_channel", "categories": "career business"},
   {"url": "https://www.youtube.com/@2ch_seikatu_tiebukuro", "categories": "lifehack money_finance"},
 
 
@@ -266,6 +277,7 @@
   {"url": "https://www.youtube.com/@話題ゲーム", "categories": "game"},
   {"url": "https://www.youtube.com/@52ch5", "categories": "game"},
   {"url": "https://www.youtube.com/@nitendo_information_bureau", "categories": "game"},
+  {"url": "https://www.youtube.com/@jpreport-r1p", "categories": "game"},
   {"url": "https://www.youtube.com/@kuma.3", "categories": "game gadget"},
   
   {"url": "https://www.youtube.com/@hiyoko246", "categories": "trend"},
@@ -290,7 +302,8 @@
   {"url": "https://www.youtube.com/@companyreview", "categories": "trend"},
   {"url": "https://www.youtube.com/@user-xo8rv2yb1c", "categories": "trend"},
   {"url": "https://www.youtube.com/@akibester-ch", "categories": "trend"},
-  {"url": "https://youtube.com/@sokuhou-", "categories": "trend"},
+  {"url": "https://www.youtube.com/@sokuhou-", "categories": "trend"},
+  {"url": "https://www.youtube.com/@yamikuma", "categories": "trend"},
 
   {"url": "https://www.youtube.com/@SonyXperia", "categories": "gadget tour"},
   {"url": "https://www.youtube.com/@MrVR", "categories": "gadget"},
@@ -350,6 +363,7 @@
   {"url": "https://www.youtube.com/@mobilecomtv", "categories": "gadget"},
   {"url": "https://www.youtube.com/@maturikun", "categories": "gadget"},
   {"url": "https://www.youtube.com/@NOMLAB", "categories": "gadget"},
+  {"url": "https://www.youtube.com/@yusukeokawa", "categories": "gadget"},
   {"url": "https://www.youtube.com/@Monitor_lab", "categories": "gadget game necessity"},
   {"url": "https://www.youtube.com/@zattavr", "categories": "gadget game technology"},
   {"url": "https://www.youtube.com/@kimimarokotatsu", "categories": "gadget necessity gourmet"},
@@ -650,6 +664,7 @@
   {"url": "https://www.youtube.com/@thedadsecretbase", "categories": "gadget necessity stationary"},
   {"url": "https://www.youtube.com/@SagaraGouchi", "categories": "gadget necessity"},
   {"url": "https://www.youtube.com/@king.blog05", "categories": "lifehack necessity"},
+  {"url": "https://www.youtube.com/@kiimama_kurashi", "categories": "lifehack necessity"},
   {"url": "https://www.youtube.com/@Lifelogtube", "categories": "lifehack necessity"},
   {"url": "https://www.youtube.com/@user-et8nn1rk7i", "categories": "lifehack necessity"},
   {"url": "https://www.youtube.com/@natsuko271", "categories": "lifehack necessity"},
@@ -737,6 +752,8 @@
   {"url": "https://www.youtube.com/@CAR-LIFE1111", "categories": "mobility money_finance lifehack", "absolute": "mobility"},
   {"url": "https://www.youtube.com/@Hunter_Channel", "categories": "mobility"},
   {"url": "https://www.youtube.com/@tokki_cardesign", "categories": "mobility"},
+  {"url": "https://www.youtube.com/@ridenow", "categories": "mobility"},
+  {"url": "https://www.youtube.com/@norimonochannel", "categories": "mobility military"},
   
   {"url": "https://www.youtube.com/@hayatasuuu", "categories": "sales"},
   {"url": "https://www.youtube.com/@KiyotoUniv", "categories": "engineer"},
@@ -849,6 +866,7 @@
 
 
   {"url": "https://www.youtube.com/@sunday-money", "categories": "money_finance new_job"},
+  {"url": "https://www.youtube.com/@kawaminamiyoutube", "categories": "money_finance new_job"},
   {"url": "https://www.youtube.com/@yutorihuhunochokinron", "categories": "equity_investment"},
   {"url": "https://www.youtube.com/@MatsuiSecurities-sub", "categories": "equity_investment"},
   {"url": "https://www.youtube.com/@kabureallive", "categories": "equity_investment"},
@@ -952,6 +970,7 @@
   {"url": "https://www.youtube.com/@user-ly6ju9fs2p", "categories": "real_estate_investment"},
   {"url": "https://www.youtube.com/@hudousananiki_kobayashi", "categories": "real_estate_investment"},
   {"url": "https://www.youtube.com/@renosy_channel", "categories": "real_estate_investment"},
+  {"url": "https://www.youtube.com/@お金と住まい", "categories": "real_estate_investment"},
   {"url": "https://www.youtube.com/@okane_sumai", "categories": "real_estate_investment money_finance", "absolute": "real_estate_investment money_finance"},
 
   {"url": "https://www.youtube.com/@_anariso_", "categories": "property"},
@@ -1212,6 +1231,8 @@
   {"url": "https://www.youtube.com/@ITMAJIRUSHI", "categories": "it_tool gadget"},
   {"url": "https://www.youtube.com/@osozaki", "categories": "it_tool gadget"},
   {"url": "https://www.youtube.com/@hinataconsulting", "categories": "it_tool business"},
+  {"url": "https://www.youtube.com/@creativaier", "categories": "it_tool technology", "absolute": "it_tool"},
+  {"url": "https://www.youtube.com/@darmasama", "categories": "it_tool technology", "absolute": "it_tool"},
 
   {"url": "https://www.youtube.com/@abemutsuki", "categories": "new_job"},
   {"url": "https://www.youtube.com/@mumei_ai", "categories": "new_job"},
@@ -1308,7 +1329,7 @@
   {"url": "https://www.youtube.com/@takashi_ch", "categories": "education"},
   {"url": "https://www.youtube.com/@tokyo-shoten", "categories": "education"},
   {"url": "https://www.youtube.com/@yoshi-koba", "categories": "money_finance lifehack business"},
-  {"url": "https://www.youtube.com/@Aba_Book_Tuber", "categories": "education"},
+  {"url": "https://www.youtube.com/@Aba_Book_Tuber", "categories": "education business", "absolute": "business"},
 
 
   {"url": "https://www.youtube.com/@featch3622", "categories": "beauty"},
@@ -1525,6 +1546,7 @@
   {"url": "https://www.youtube.com/@SADA-ji2uc", "categories": "mens_fashion"},
   {"url": "https://www.youtube.com/@CHANNELKOTARO", "categories": "mens_fashion"},
   {"url": "https://www.youtube.com/@MensFashionTV", "categories": "mens_fashion"},
+  {"url": "https://www.youtube.com/@a_life_with_watches", "categories": "mens_fashion"},
 
   {"url": "https://www.youtube.com/@MarinaTakewaki", "categories": "health"},
   {"url": "https://www.youtube.com/@tabiwadance", "categories": "health"},
@@ -1547,6 +1569,7 @@
   {"url": "https://www.youtube.com/@TV-pc3hb", "categories": "sports"},
   {"url": "https://www.youtube.com/@jsports", "categories": "sports"},
   {"url": "https://www.youtube.com/@yabaai6419", "categories": "sports"},
+  {"url": "https://www.youtube.com/@Sanspo", "categories": "sports"},
   {"url": "https://www.youtube.com/@tbs5947", "categories": "sports track", "absolute": "sports track"},
   {"url": "https://www.youtube.com/@Bballnews2for1", "categories": "sports"},
   {"url": "https://www.youtube.com/@SPOTVNOWJAPAN", "categories": "sports soccer baseball", "absolute": "sports"},
@@ -1677,7 +1700,8 @@
   {"url": "https://www.youtube.com/@sekuteku", "categories": "male_love female_love", "absolute": "male_love female_love"},
   {"url": "https://www.youtube.com/@user-rl9cx8bs1o", "categories": "male_love female_love other", "absolute": "male_love female_love"},
   {"url": "https://www.youtube.com/@emi.hirose", "categories": "male_love female_love psychology", "absolute": "male_love female_love"},
-  {"url": "https://youtube.com/@asukasakamoto472", "categories": "male_love female_love psychology"},
+  {"url": "https://www.youtube.com/@ONETIME_1tm", "categories": "mens_fashion womens_fashion male_love female_love"},
+  {"url": "https://www.youtube.com/@asukasakamoto472", "categories": "male_love female_love psychology"},
 
   {"url": "https://www.youtube.com/@moteotv", "categories": "male_love"},
   {"url": "https://www.youtube.com/@HikikomoriKyabajo", "categories": "male_love"},
