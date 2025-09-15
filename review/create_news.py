@@ -161,6 +161,11 @@ def main():
             print(f"[WARN] {key}: japanese_name がないためスキップ")
             continue
 
+        out_path = OUTPUT_DIR / f"{safe_filename(key)}.json"
+        if out_path.exists():
+            print(f"[SKIP] {out_path} は既に存在します。スキップします。")
+            continue   # ここで処理を飛ばす
+
         print(f"[INFO] キーワード生成: '{key}'（{jp}） -> {NUM_KEYWORDS}件")
         keywords = generate_keywords(jp, NUM_KEYWORDS)
         # 念のため重複排除 & 上限

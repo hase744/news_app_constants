@@ -1,11 +1,11 @@
 {
-  "business": { 
-    "japanese_name":"ビジネス", 
-    "enumerations_group": "business", 
+  "top": { 
+    "japanese_name":"トップ", 
+    "enumerations_group": "top", 
     "start_at": "2025-01-01T00:00:00.000 +0900",
     "is_default": true, 
     "is_formal": true, 
-    "emoji": "💼"
+    "emoji": "📰"
   },
   "politics": { 
     "japanese_name":"政治", 
@@ -14,14 +14,6 @@
     "is_default": true, 
     "is_formal": true, 
     "emoji": "🏛️"
-  },
-  "technology": { 
-    "japanese_name":"テクノロジー", 
-    "enumerations_group": "technology", 
-    "start_at": "2025-01-01T00:00:00.000 +0900",
-    "is_default": true, 
-    "is_formal": true, 
-    "emoji": "🤖"
   },
   "economy": { 
     "japanese_name":"経済", 
@@ -38,6 +30,37 @@
     "is_default": true, 
     "is_formal": true, 
     "emoji": "🌍"
+  },
+  "trend": { 
+    "japanese_name":"話題", 
+    "start_at": "2025-01-01T00:00:00.000 +0900",
+    "is_default": true, 
+    "is_formal": true, 
+    "emoji": "💬"
+  },
+  "business": { 
+    "japanese_name":"ビジネス", 
+    "enumerations_group": "business", 
+    "start_at": "2025-01-01T00:00:00.000 +0900",
+    "is_default": true, 
+    "is_formal": true, 
+    "emoji": "💼"
+  },
+  "technology": { 
+    "japanese_name":"テクノロジー", 
+    "enumerations_group": "technology", 
+    "start_at": "2025-01-01T00:00:00.000 +0900",
+    "is_default": true, 
+    "is_formal": true, 
+    "emoji": "🤖"
+  },
+  "money_finance": { 
+    "japanese_name":"家計", 
+    "enumerations_group": "money_finance", 
+    "start_at": "2025-01-01T00:00:00.000 +0900",
+    "is_default": true, 
+    "is_formal": true, 
+    "emoji": "💸"
   },
   "equity_investment": { 
     "japanese_name":"株式投資", 
@@ -85,13 +108,6 @@
     "is_default": true, 
     "is_formal": true, 
     "emoji": "🎮"
-  },
-  "trend": { 
-    "japanese_name":"話題", 
-    "start_at": "2025-01-01T00:00:00.000 +0900",
-    "is_default": true, 
-    "is_formal": true, 
-    "emoji": "💬"
   },
   "necessity": { 
     "japanese_name":"日用品", 
@@ -172,14 +188,6 @@
     "is_default": true, 
     "is_formal": true, 
     "emoji": "👕"
-  },
-  "money_finance": { 
-    "japanese_name":"家計", 
-    "enumerations_group": "money_finance", 
-    "start_at": "2025-01-01T00:00:00.000 +0900",
-    "is_default": true, 
-    "is_formal": true, 
-    "emoji": "💸"
   },
   "cooking": { 
     "japanese_name":"料理", 
