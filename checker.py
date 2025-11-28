@@ -14,6 +14,10 @@ with open('data/enumerations.json', 'r', encoding='utf-8') as f:
 with open('data/category_enumerations.json', 'r', encoding='utf-8') as f:
     category_enumerations = json.load(f)
 
+with open('data/authors.json', 'r', encoding='utf-8') as f:
+    authors_data = json.load(f)
+author_names = {a["japanese_name"] for a in authors_data if "japanese_name" in a}
+
 invalid_urls = []
 unique_invalid_categories = []
 print(valid_category_names)
@@ -60,3 +64,38 @@ if invalid_groups:
         print(f"{group} に存在しないキー: {missing}")
 else:
     print("すべてのグループのキーはenumerations.jsonに存在しています。")
+
+
+channel_authors = []
+for entry in channels_data:
+    author = entry.get("author")
+    if author:  # None や "" を除外
+        channel_authors.append(author)
+
+channel_authors_set = set(channel_authors)
+
+# ① channels.json の author にあるのに authors.json に name がないもの
+invalid_channel_authors = {}  # {author名: [url1, url2, ...]}
+for entry in channels_data:
+    author = entry.get("author")
+    if author and author not in author_names:
+        invalid_channel_authors.setdefault(author, []).append(entry["url"])
+
+if invalid_channel_authors:
+    print("channels.json の author に存在するが authors.json の name に存在しないもの:")
+    for author, urls in invalid_channel_authors.items():
+        print(f"  author: {author}")
+        for url in urls:
+            print(f"    - {url}")
+else:
+    print("channels.json の author はすべて authors.json の name に存在します。")
+
+# ② authors.json の name にあるのに channels.json の author に一度も出てこないもの
+unused_authors = [name for name in author_names if name not in channel_authors_set]
+
+if unused_authors:
+    print("authors.json の name にあるが channels.json の author に使われていないもの:")
+    for name in unused_authors:
+        print(f"  - {name}")
+else:
+    print("authors.json の name はすべて channels.json の author から参照されています。")

@@ -1,0 +1,594 @@
+[
+  {
+    "japanese_name": "真相深入り! 虎ノ門ニュース",
+    "name": "toranomon_news",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ホリエモン",
+    "name": "horiemon",
+    "is_group": false
+  },
+  {
+    "japanese_name": "渡邉哲也",
+    "name": "watanabe_tetsuya",
+    "is_group": false,
+    "description": "watanabe_tetsuya.md"
+  },
+  {
+    "japanese_name": "山本期日前",
+    "name": "yamamoto_kijitsumae",
+    "is_group": false
+  },
+  {
+    "japanese_name": "宮脇睦",
+    "name": "miyawaki_atsushi",
+    "is_group": false,
+    "description": "miyawaki_atsushi.md"
+  },
+  {
+    "japanese_name": "河合ゆうすけ",
+    "name": "kawai_yusuke",
+    "is_group": false,
+    "description": "kawai_yusuke.md"
+  },
+  {
+    "japanese_name": "門田隆将",
+    "name": "kadota_tyusyo",
+    "is_group": false
+  },
+  {
+    "japanese_name": "須田慎一郎",
+    "name": "suda_shinichirou",
+    "is_group": false,
+    "description": "suda_shinichirou.md",
+    "official_website": "https://suda-journal.jp/"
+  },
+  {
+    "japanese_name": "浜田聡",
+    "name": "hamada_satoshi",
+    "is_group": false,
+    "description": "hamada_satoshi.md",
+    "official_website": "https://t-t-t-t.com/"
+  },
+  {
+    "japanese_name": "音喜多駿",
+    "name": "otokita_shun",
+    "is_group": false,
+    "description": "otokita_shun.md",
+    "official_website": "https://otokitashun.com/"
+  },
+  {
+    "japanese_name": "山本太郎",
+    "name": "taro_yamamoto",
+    "is_group": false,
+    "description": "taro_yamamoto.md",
+    "official_website": "https://www.taro-yamamoto.jp/profile"
+  },
+  {
+    "japanese_name": "梅村みずほ",
+    "name": "umemura_mizuho",
+    "is_group": false,
+    "description": "umemura_mizuho.md",
+    "official_website": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7019007.htm"
+  },
+  {
+    "japanese_name": "有本香",
+    "name": "kaori_arimoto.md",
+    "is_group": false,
+    "description": "kaori_arimoto.md",
+    "official_website": "https://hoshuto.jp/member/arimoto/"
+  },
+  {
+    "japanese_name": "維新の会",
+    "name": "ishinnokai",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "国民民主党",
+    "name": "kokuminminsyutou",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "公明党",
+    "name": "komeitou",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "参政党",
+    "name": "sanseitou",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "れいわ新選組",
+    "name": "reiwashinsengumi",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "藤田文武",
+    "name": "fujita_fumitake",
+    "is_group": false,
+    "description": "fujita_fumitake.md",
+    "official_website": "https://fumitakefujita.com/profile"
+  },
+  {
+    "japanese_name": "吉村洋文",
+    "name": "yoshimura_hirofumi",
+    "is_group": false,
+    "description": "yoshimura_hirofumi.md",
+    "official_website": "https://www.yoshimura-hirofumi.com/プロフィール/"
+  },
+  {
+    "japanese_name": "しんば賀津也",
+    "name": "shimba_kazuya",
+    "is_group": false,
+    "description": "shimba_kazuya.md",
+    "official_website": "https://k-shimba.com/profile"
+  },
+  {
+    "japanese_name": "百田尚樹",
+    "name": "hyakuta_naoki",
+    "is_group": false,
+    "description": "hyakuta_naoki.md",
+    "official_website": "https://hoshuto.jp/member/hyakuta/"
+  },
+  {
+    "japanese_name": "丸山穂高",
+    "name": "maruyama_hotaka",
+    "is_group": false,
+    "description": "maruyama_hodaka.md",
+    "official_website": "https://www.h-maruyama.jp/profile"
+  },
+  {
+    "japanese_name": "さとうさおり",
+    "name": "sato_saori",
+    "is_group": false,
+    "description": "sato_saori.md",
+    "official_website": "https://sato-saori.site/"
+  },
+  {
+    "japanese_name": "文化人放送局",
+    "name": "bunkajinhousoukyoku",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "近藤大介",
+    "name": "kondo_daisuke",
+    "is_group": false,
+    "description": "kondo_daisuke.md",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "菅野完",
+    "name": "kanno_tamotsu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "玉木雄一郎",
+    "name": "tamaki_yuichiro",
+    "is_group": false,
+    "description": "tamaki_yuichiro.md",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "楽待",
+    "name": "rakumachi",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "NewsPicks",
+    "name": "newspicks",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "奥山真司",
+    "name": "okuyama_masashi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "文藝春秋PLUS",
+    "name": "bungeishunju_plus",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "髙橋洋一",
+    "name": "takahashi_yoichi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "マイキー",
+    "name": "maiki",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "フィフィ",
+    "name": "fifi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "もふもふ不動産もふ",
+    "name": "mofumofu_fudosan",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "青山繁晴",
+    "name": "aoyama_shigeharu",
+    "is_group": false,
+    "description": "aoyama_shigeharu.md",
+    "official_website": "https://aoyama-shigeharu.jp/"
+  },
+  {
+    "japanese_name": "片山さつき",
+    "name": "katayama_satsuki",
+    "is_group": false,
+    "description": "katayama_satsuki.md",
+    "official_website": "https://satsuki-katayama.com/"
+  },
+  {
+    "japanese_name": "西田昌司",
+    "name": "nishida_shoji",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "北村晴男",
+    "name": "kitamura_haruo",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "石平",
+    "name": "sekihei",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ものづくり太郎",
+    "name": "monozukuri_taro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "安野貴博",
+    "name": "anno_takahiro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "AMANO SCOPE",
+    "name": "amano_scope",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "中島聡",
+    "name": "nakajima_satoshi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "マナビジネスしゅう",
+    "name": "manabusiness_shu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "サム",
+    "name": "samu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "宋世羅",
+    "name": "song_sera",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "公認会計士YouTuberくろい",
+    "name": "cpa_kuroi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "サラタメ",
+    "name": "saratame",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "田端信太郎",
+    "name": "tabata_shintaro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "友村晋",
+    "name": "tomomura_shin",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "あっきー",
+    "name": "akki",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "しゃべくり社長",
+    "name": "shabekuri_shacho",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "西崎康平",
+    "name": "nishizaki_kohei",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "箕輪厚介",
+    "name": "minowa_kosuke",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "伊庭正康",
+    "name": "iba_masayasu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "星野ロミ",
+    "name": "hoshino_romi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "高須幹弥",
+    "name": "takasu_mikiya",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "本要約チャンネル",
+    "name": "hon_yoyaku_channel",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "大河内薫",
+    "name": "okochi_kaoru",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "バンクアカデミーの小林亮平",
+    "name": "bankacademy_kobayashi_ryohei",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "両学長",
+    "name": "ryogakucho",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ヒロ税理士",
+    "name": "hiro_tax-accountant",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ねこたろう",
+    "name": "nekotaro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "脱・税理士スガワラ",
+    "name": "sugawara_de-tax-accountant",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "公認会計士山田真哉",
+    "name": "cpa_yamada_masaya",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "サンデー",
+    "name": "sunday",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "税理士 河南",
+    "name": "tax-accountant_kawanami",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "伊木ヒロシ",
+    "name": "iki_hiroshi",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ITコンシェルジュのはるか",
+    "name": "it_concierge_haruka",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ゆずひこ",
+    "name": "yuzuhiko",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "お金の特急解説",
+    "name": "okane_tokkyukaisetsu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ファイナンシャルプランナーまり",
+    "name": "fp_mari",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "選挙ドットコム",
+    "name": "senkyo_dotcom",
+    "is_group": true
+  },
+  {
+    "japanese_name": "松田政策研究所",
+    "name": "matsuda_policy_institute",
+    "is_group": true
+  },
+  {
+    "japanese_name": "言論テレビ",
+    "name": "genron_tv",
+    "is_group": true
+  },
+  {
+    "japanese_name": "Newsweek Japan",
+    "name": "newsweek_japan",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ニッポンジャーナル",
+    "name": "nippon_journal",
+    "is_group": true
+  },
+  {
+    "japanese_name": "デイリーWill",
+    "name": "daily_will",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ChGrandStrategy",
+    "name": "chgrandstrategy",
+    "is_group": true
+  },
+  {
+    "japanese_name": "政経電論TV",
+    "name": "seikeidenron_tv",
+    "is_group": true
+  },
+  {
+    "japanese_name": "石田和靖",
+    "name": "ishida_kazuyasu",
+    "is_group": false
+  },
+  {
+    "japanese_name": "ビデオニュース・ドットコム",
+    "name": "videonews_com",
+    "is_group": true
+  },
+  {
+    "japanese_name": "葦原大和",
+    "name": "ashihara_yamato",
+    "is_group": false
+  },
+  {
+    "japanese_name": "柯隆",
+    "name": "ke_long",
+    "is_group": false
+  },
+  {
+    "japanese_name": "看中国",
+    "name": "kan_chugoku",
+    "is_group": true
+  },
+  {
+    "japanese_name": "flier",
+    "name": "flier",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ReHacQ",
+    "name": "rehacq",
+    "is_group": true
+  },
+  {
+    "japanese_name": "内定チャンネル",
+    "name": "naitei_channel",
+    "is_group": true
+  },
+  {
+    "japanese_name": "お金のまなびば!",
+    "name": "okane_manabiba",
+    "is_group": true
+  }
+]
