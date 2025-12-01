@@ -1,85 +1,5 @@
 [
   {
-    "japanese_name": "真相深入り! 虎ノ門ニュース",
-    "name": "toranomon_news",
-    "is_group": true
-  },
-  {
-    "japanese_name": "ホリエモン",
-    "name": "horiemon",
-    "is_group": false
-  },
-  {
-    "japanese_name": "渡邉哲也",
-    "name": "watanabe_tetsuya",
-    "is_group": false,
-    "description": "watanabe_tetsuya.md"
-  },
-  {
-    "japanese_name": "山本期日前",
-    "name": "yamamoto_kijitsumae",
-    "is_group": false
-  },
-  {
-    "japanese_name": "宮脇睦",
-    "name": "miyawaki_atsushi",
-    "is_group": false,
-    "description": "miyawaki_atsushi.md"
-  },
-  {
-    "japanese_name": "河合ゆうすけ",
-    "name": "kawai_yusuke",
-    "is_group": false,
-    "description": "kawai_yusuke.md"
-  },
-  {
-    "japanese_name": "門田隆将",
-    "name": "kadota_tyusyo",
-    "is_group": false
-  },
-  {
-    "japanese_name": "須田慎一郎",
-    "name": "suda_shinichirou",
-    "is_group": false,
-    "description": "suda_shinichirou.md",
-    "official_website": "https://suda-journal.jp/"
-  },
-  {
-    "japanese_name": "浜田聡",
-    "name": "hamada_satoshi",
-    "is_group": false,
-    "description": "hamada_satoshi.md",
-    "official_website": "https://t-t-t-t.com/"
-  },
-  {
-    "japanese_name": "音喜多駿",
-    "name": "otokita_shun",
-    "is_group": false,
-    "description": "otokita_shun.md",
-    "official_website": "https://otokitashun.com/"
-  },
-  {
-    "japanese_name": "山本太郎",
-    "name": "taro_yamamoto",
-    "is_group": false,
-    "description": "taro_yamamoto.md",
-    "official_website": "https://www.taro-yamamoto.jp/profile"
-  },
-  {
-    "japanese_name": "梅村みずほ",
-    "name": "umemura_mizuho",
-    "is_group": false,
-    "description": "umemura_mizuho.md",
-    "official_website": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7019007.htm"
-  },
-  {
-    "japanese_name": "有本香",
-    "name": "kaori_arimoto.md",
-    "is_group": false,
-    "description": "kaori_arimoto.md",
-    "official_website": "https://hoshuto.jp/member/arimoto/"
-  },
-  {
     "japanese_name": "維新の会",
     "name": "ishinnokai",
     "is_group": true,
@@ -108,6 +28,13 @@
     "official_website": ""
   },
   {
+    "japanese_name": "日本保守党",
+    "name": "nihonhoshutou",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "れいわ新選組",
     "name": "reiwashinsengumi",
     "is_group": true,
@@ -115,15 +42,124 @@
     "official_website": ""
   },
   {
+    "japanese_name": "自由民主党",
+    "name": "jiyuuminshutou",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "チームみらい",
+    "name": "team_mirai",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "真相深入り! 虎ノ門ニュース",
+    "name": "toranomon_news",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ホリエモン",
+    "name": "horiemon",
+    "alias_names": ["堀江貴文", "堀江 貴文"],
+    "is_group": false
+  },
+  {
+    "japanese_name": "渡邉哲也",
+    "name": "watanabe_tetsuya",
+    "alias_names": ["渡邊哲也", "渡邊 哲也"],
+    "is_group": false,
+    "description": "watanabe_tetsuya.md"
+  },
+  {
+    "japanese_name": "山本期日前",
+    "name": "yamamoto_kijitsumae",
+    "is_group": false
+  },
+  {
+    "japanese_name": "宮脇睦",
+    "name": "miyawaki_atsushi",
+    "is_group": false,
+    "alias_names": ["宮脇 淳"],
+    "description": "miyawaki_atsushi.md"
+  },
+  {
+    "japanese_name": "河合ゆうすけ",
+    "name": "kawai_yusuke",
+    "alias_names": ["河合 ゆうすけ"],
+    "is_group": false,
+    "description": "kawai_yusuke.md"
+  },
+  {
+    "japanese_name": "門田隆将",
+    "name": "kadota_tyusyo",
+    "is_group": false
+  },
+  {
+    "japanese_name": "須田慎一郎",
+    "name": "suda_shinichirou",
+    "is_group": false,
+    "description": "suda_shinichirou.md",
+    "official_website": "https://suda-journal.jp/"
+  },
+  {
+    "japanese_name": "浜田聡",
+    "name": "hamada_satoshi",
+    "is_group": false,
+    "description": "hamada_satoshi.md",
+    "official_website": "https://t-t-t-t.com/"
+  },
+  {
+    "japanese_name": "音喜多駿",
+    "name": "otokita_shun",
+    "alias_names": ["音喜多 駿"],
+    "organization": "維新の会",
+    "is_group": false,
+    "description": "otokita_shun.md",
+    "official_website": "https://otokitashun.com/"
+  },
+  {
+    "japanese_name": "山本太郎",
+    "name": "taro_yamamoto",
+    "alias_names": ["山本 太郎"],
+    "organization": "れいわ新選組",
+    "is_group": false,
+    "description": "taro_yamamoto.md",
+    "official_website": "https://www.taro-yamamoto.jp/profile"
+  },
+  {
+    "japanese_name": "梅村みずほ",
+    "name": "umemura_mizuho",
+    "alias_names": ["梅村 みずほ"],
+    "organization": "参政党",
+    "is_group": false,
+    "description": "umemura_mizuho.md",
+    "official_website": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7019007.htm"
+  },
+  {
+    "japanese_name": "有本香",
+    "name": "kaori_arimoto.md",
+    "organization": "日本保守党",
+    "is_group": false,
+    "description": "kaori_arimoto.md",
+    "official_website": "https://hoshuto.jp/member/arimoto/"
+  },
+  {
     "japanese_name": "藤田文武",
     "name": "fujita_fumitake",
+    "organization": "維新の会",
     "is_group": false,
+    "alias_names": ["藤田 文武", "藤井代表", "藤井共同代表"],
     "description": "fujita_fumitake.md",
     "official_website": "https://fumitakefujita.com/profile"
   },
   {
     "japanese_name": "吉村洋文",
     "name": "yoshimura_hirofumi",
+    "organization": "維新の会",
+    "alias_names": ["吉村 洋文", "吉村知事", "大阪府知事", "大阪府府知事", "吉村代表"],
     "is_group": false,
     "description": "yoshimura_hirofumi.md",
     "official_website": "https://www.yoshimura-hirofumi.com/プロフィール/"
@@ -131,6 +167,8 @@
   {
     "japanese_name": "しんば賀津也",
     "name": "shimba_kazuya",
+    "alias_names": ["榛葉 賀津也", "榛葉賀津也", "しんば 賀津也", "しんば党幹事長", "榛葉党幹事長"],
+    "organization": "国民民主党",
     "is_group": false,
     "description": "shimba_kazuya.md",
     "official_website": "https://k-shimba.com/profile"
@@ -138,6 +176,8 @@
   {
     "japanese_name": "百田尚樹",
     "name": "hyakuta_naoki",
+    "organization": "日本保守党",
+    "alias_names": ["百田 尚樹", "百田氏"],
     "is_group": false,
     "description": "hyakuta_naoki.md",
     "official_website": "https://hoshuto.jp/member/hyakuta/"
@@ -145,6 +185,7 @@
   {
     "japanese_name": "丸山穂高",
     "name": "maruyama_hotaka",
+    "alias_names": ["丸山 穂高"],
     "is_group": false,
     "description": "maruyama_hodaka.md",
     "official_website": "https://www.h-maruyama.jp/profile"
@@ -152,6 +193,7 @@
   {
     "japanese_name": "さとうさおり",
     "name": "sato_saori",
+    "alias_names": ["佐藤 さおり"],
     "is_group": false,
     "description": "sato_saori.md",
     "official_website": "https://sato-saori.site/"
@@ -179,7 +221,9 @@
   },
   {
     "japanese_name": "玉木雄一郎",
+    "alias_names": ["玉木 雄一郎", "玉木代表", "玉木氏","国民民主党代表", "国民民主党党代表"],
     "name": "tamaki_yuichiro",
+    "organization": "国民民主党",
     "is_group": false,
     "description": "tamaki_yuichiro.md",
     "official_website": ""
@@ -201,6 +245,7 @@
   {
     "japanese_name": "奥山真司",
     "name": "okuyama_masashi",
+    "alias_names": ["奥山 真司"],
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -215,6 +260,7 @@
   {
     "japanese_name": "髙橋洋一",
     "name": "takahashi_yoichi",
+    "alias_names": ["高橋 洋一"],
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -243,12 +289,16 @@
   {
     "japanese_name": "青山繁晴",
     "name": "aoyama_shigeharu",
+    "alias_names": ["青山 繁晴"],
+    "organization": "自由民主党",
     "is_group": false,
     "description": "aoyama_shigeharu.md",
     "official_website": "https://aoyama-shigeharu.jp/"
   },
   {
     "japanese_name": "片山さつき",
+    "alias_names": ["片山 さつき", "財務大臣"],
+    "organization": "自由民主党",
     "name": "katayama_satsuki",
     "is_group": false,
     "description": "katayama_satsuki.md",
@@ -257,6 +307,8 @@
   {
     "japanese_name": "西田昌司",
     "name": "nishida_shoji",
+    "organization": "自由民主党",
+    "alias_names": ["西田 昌司"],
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -264,6 +316,7 @@
   {
     "japanese_name": "北村晴男",
     "name": "kitamura_haruo",
+    "organization": "日本保守党",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -271,6 +324,7 @@
   {
     "japanese_name": "石平",
     "name": "sekihei",
+    "organization": "維新の会",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -284,6 +338,8 @@
   },
   {
     "japanese_name": "安野貴博",
+    "alias_names": ["安野 貴博", "安野氏", "チーム未来代表"],
+    "organization": "チームみらい",
     "name": "anno_takahiro",
     "is_group": false,
     "description": "",
