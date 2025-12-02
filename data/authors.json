@@ -88,6 +88,7 @@
   {
     "japanese_name": "河合ゆうすけ",
     "name": "kawai_yusuke",
+    "official_website": "https://kawai-yusuke.info/wp-content/uploads/2025/10/名称未設定のデザイン-8.png",
     "alias_names": ["河合 ゆうすけ"],
     "is_group": false,
     "description": "kawai_yusuke.md"
@@ -169,6 +170,7 @@
     "name": "shimba_kazuya",
     "alias_names": ["榛葉 賀津也", "榛葉賀津也", "しんば 賀津也", "しんば党幹事長", "榛葉党幹事長"],
     "organization": "国民民主党",
+    "image_url": "https://new-kokumin.jp/wp-content/uploads/2024/08/83adbecc191cd73da251eeec6cf245c0-scaled-e1738200045606.jpg",
     "is_group": false,
     "description": "shimba_kazuya.md",
     "official_website": "https://k-shimba.com/profile"
@@ -177,6 +179,7 @@
     "japanese_name": "百田尚樹",
     "name": "hyakuta_naoki",
     "organization": "日本保守党",
+    "image_url": "https://pbs.twimg.com/profile_images/1857818187888562176/1ON1TmMQ_400x400.jpg",
     "alias_names": ["百田 尚樹", "百田氏"],
     "is_group": false,
     "description": "hyakuta_naoki.md",
@@ -225,6 +228,7 @@
     "name": "tamaki_yuichiro",
     "organization": "国民民主党",
     "is_group": false,
+    "image_url": "https://new-kokumin.jp/wp-content/uploads/2020/11/member_img3.jpg",
     "description": "tamaki_yuichiro.md",
     "official_website": ""
   },
@@ -276,6 +280,7 @@
     "japanese_name": "フィフィ",
     "name": "fifi",
     "is_group": false,
+    "image_url": "https://yt3.googleusercontent.com/M9F3u3lJF9hbsuH058samgVwl1bTIHimd-gnt4miQ9dNhW9wmfk6UK_3_GVuX51LoVCeXBfI_cU=s160-c-k-c0x00ffffff-no-rj",
     "description": "",
     "official_website": ""
   },
@@ -308,6 +313,7 @@
     "japanese_name": "西田昌司",
     "name": "nishida_shoji",
     "organization": "自由民主党",
+    "image_url": "https://www.jimin.jp/member/img/nishida-shoji.jpg",
     "alias_names": ["西田 昌司"],
     "is_group": false,
     "description": "",
