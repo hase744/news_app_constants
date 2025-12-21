@@ -67,6 +67,35 @@
     "is_group": false
   },
   {
+    "japanese_name": "田中渓",
+    "name": "tanaka_kei",
+    "alias_names": ["田中 渓"],
+    "is_group": false,
+    "description": "tanaka_kei.md"
+  },
+  {
+    "japanese_name": "ユノキ帝国",
+    "name": "kishitani_ranmaru",
+    "alias_names": ["ユノキ帝国"],
+    "is_group": false,
+    "description": "kishitani_ranmaru.md"
+  },
+  {
+    "japanese_name": "岸谷蘭丸",
+    "name": "kishitani_ranmaru",
+    "alias_names": ["岸谷 蘭丸"],
+    "organization": "ユノキ帝国",
+    "is_group": false,
+    "description": "kishitani_ranmaru.md"
+  },
+  {
+    "japanese_name": "反町理",
+    "name": "sorimachi_osamu",
+    "alias_names": ["反町 理"],
+    "is_group": false,
+    "description": "sorimachi_osamu.md"
+  },
+  {
     "japanese_name": "渡邉哲也",
     "name": "watanabe_tetsuya",
     "alias_names": ["渡邊哲也", "渡邊 哲也"],
@@ -76,6 +105,7 @@
   {
     "japanese_name": "山本期日前",
     "name": "yamamoto_kijitsumae",
+    "image_url": "https://profile.yoshimoto.co.jp/assets/data/profile/8785/6b01781594ac684515428a80832fad257fcf6f17.jpg",
     "is_group": false
   },
   {
@@ -92,6 +122,22 @@
     "alias_names": ["河合 ゆうすけ"],
     "is_group": false,
     "description": "kawai_yusuke.md"
+  },
+  {
+    "japanese_name": "石丸伸二",
+    "name": "ishimaru_shinji",
+    "official_website": "https://ishimaru-shinji.com/profile/",
+    "alias_names": ["石丸 伸二", "前安芸高田市長"],
+    "is_group": false,
+    "description": "ishimaru_shinji.md"
+  },
+  {
+    "japanese_name": "たかまつなな",
+    "name": "takamatsu_nana",
+    "alias_names": ["たかまつ なな"],
+    "is_group": false,
+    "description": "takamatsu_nana.md",
+    "official_website": "https://www.takamatsunana.com/"
   },
   {
     "japanese_name": "門田隆将",
@@ -120,6 +166,15 @@
     "is_group": false,
     "description": "otokita_shun.md",
     "official_website": "https://otokitashun.com/"
+  },
+  {
+    "japanese_name": "茂木としみつ",
+    "name": "motegi_toshimitsu",
+    "alias_names": ["茂木 としみつ"],
+    "organization": "自由民主党",
+    "is_group": false,
+    "description": "motegi_toshimitsu.md",
+    "official_website": "https://motegi.gr.jp/profile/"
   },
   {
     "japanese_name": "山本太郎",
@@ -152,7 +207,7 @@
     "name": "fujita_fumitake",
     "organization": "維新の会",
     "is_group": false,
-    "alias_names": ["藤田 文武", "藤井代表", "藤井共同代表"],
+    "alias_names": ["藤田 文武", "藤田代表", "藤田共同代表"],
     "description": "fujita_fumitake.md",
     "official_website": "https://fumitakefujita.com/profile"
   },
@@ -202,10 +257,24 @@
     "official_website": "https://sato-saori.site/"
   },
   {
+    "japanese_name": "藤井聡チャンネル『表現者クライテリオン』",
+    "name": "fuji_satoshi_channel_hyougensha_criterion",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "文化人放送局",
     "name": "bunkajinhousoukyoku",
     "is_group": true,
     "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "藤井聡",
+    "name": "fuji_satoshi",
+    "organization": "藤井聡チャンネル『表現者クライテリオン』",
+    "is_group": false,
     "official_website": ""
   },
   {
@@ -230,6 +299,13 @@
     "is_group": false,
     "image_url": "https://new-kokumin.jp/wp-content/uploads/2020/11/member_img3.jpg",
     "description": "tamaki_yuichiro.md",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ひろゆかないと愉快な仲間たち",
+    "name": "hiroyukanai_to_yukainanakamatachi",
+    "is_group": true,
+    "description": "",
     "official_website": ""
   },
   {
@@ -331,6 +407,21 @@
     "japanese_name": "石平",
     "name": "sekihei",
     "organization": "維新の会",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "井川意高",
+    "name": "ikawa_mototaka",
+    "organization": "政経電論TV",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ひろゆき",
+    "name": "nishimura_hitoyuki",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -450,6 +541,13 @@
     "official_website": ""
   },
   {
+    "japanese_name": "三橋貴明",
+    "name": "mitsuhashi_takaaki",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "星野ロミ",
     "name": "hoshino_romi",
     "is_group": false,
@@ -466,6 +564,13 @@
   {
     "japanese_name": "本要約チャンネル",
     "name": "hon_yoyaku_channel",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "新R25",
+    "name": "shin_r25",
     "is_group": true,
     "description": "",
     "official_website": ""
