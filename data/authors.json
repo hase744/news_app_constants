@@ -67,11 +67,83 @@
     "is_group": false
   },
   {
+    "japanese_name": "森永康平",
+    "name": "morinaga_kouhei",
+    "image_url": "https://res.cloudinary.com/gb-cache/image/upload/f_auto,c_limit,w_400,h_400/prod/ggc4lf4l4c8jh8du00g17sgm",
+    "alias_names": ["森永 康平"],
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "青山和弘",
+    "name": "aoyama_kazuhiro ",
+    "alias_names": ["青山 和弘"],
+    "image_url": "https://www.sbrain.co.jp/tmp/files/teacher/0000018813/prof_image_4716372897186.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "会田卓司",
+    "name": "kaeda_takushi",
+    "alias_names": ["会田 卓司"],
+    "channel_exist": false,
+    "is_group": false
+  },
+  {
+    "japanese_name": "海老原嗣生",
+    "name": "tsuguo_ebihara",
+    "alias_names": ["海老 原嗣生"],
+    "image_url": "https://prcdn.freetls.fastly.net/release_image/55068/76/55068-76-5186b17664c948d6d1f72aca586305f8-240x264.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "室伏謙一",
+    "name": "murofushi_kenichi",
+    "alias_names": ["室伏 謙一"],
+    "is_group": false
+  },
+  {
+    "japanese_name": "竹田恒泰",
+    "name": "takeda_tsuneyasu ",
+    "alias_names": ["竹田 恒泰"],
+    "is_group": false
+  },
+  {
+    "japanese_name": "情念司",
+    "name": "jonen_tsukasa",
+    "alias_names": ["情念 司"],
+    "is_group": false
+  },
+  {
+    "japanese_name": "阿比留瑠比",
+    "name": "abiru_rui",
+    "alias_names": ["阿比留 瑠比"],
+    "image_url": "https://manapi-world.org/wp/wp-content/uploads/2023/08/img_999a672711f423de6793572b2bc523b621271.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
     "japanese_name": "田中渓",
     "name": "tanaka_kei",
     "alias_names": ["田中 渓"],
+    "image_url": "https://www.interfm.co.jp/gen/images/284/f4526a928382a2de8741198ec7ffe489591380dd.webp",
     "is_group": false,
+    "channel_exist": false,
     "description": "tanaka_kei.md"
+  },
+  {
+    "japanese_name": "深田萌絵",
+    "name": "fukada_moe",
+    "alias_names": ["深田 萌絵"],
+    "is_group": false
+  },
+  {
+    "japanese_name": "杉田水脈",
+    "name": "sugita_mio",
+    "alias_names": ["杉田 水脈"],
+    "official_website": "https://sugitamio.net/profile",
+    "is_group": false
   },
   {
     "japanese_name": "ユノキ帝国",
@@ -84,8 +156,10 @@
     "japanese_name": "岸谷蘭丸",
     "name": "kishitani_ranmaru",
     "alias_names": ["岸谷 蘭丸"],
+    "image_url": "https://niewmedia.com/wp-content/uploads/2025/01/85613fe5669e10a55d8dea7a72c1ae60.webp",
     "organization": "ユノキ帝国",
     "is_group": false,
+    "channel_exist": false,
     "description": "kishitani_ranmaru.md"
   },
   {
@@ -177,6 +251,22 @@
     "official_website": "https://motegi.gr.jp/profile/"
   },
   {
+    "japanese_name": "小泉進次郎",
+    "name": "koizumi_shinjiro",
+    "alias_names": ["小泉 進次郎", "防衛大臣"],
+    "organization": "自由民主党",
+    "is_group": false,
+    "official_website": "https://www.shinjiro.info/#profile"
+  },
+  {
+    "japanese_name": "小林鷹之",
+    "name": "kobayashi_takayuki",
+    "alias_names": ["小林 鷹之"],
+    "organization": "自由民主党",
+    "is_group": false,
+    "official_website": "https://kobayashi-takayuki.jp/profile/"
+  },
+  {
     "japanese_name": "山本太郎",
     "name": "taro_yamamoto",
     "alias_names": ["山本 太郎"],
@@ -257,6 +347,13 @@
     "official_website": "https://sato-saori.site/"
   },
   {
+    "japanese_name": "新藤加菜",
+    "name": "shindou_kana",
+    "alias_names": ["新藤 加菜"],
+    "is_group": false,
+    "official_website": "https://shindokana.com/"
+  },
+  {
     "japanese_name": "藤井聡チャンネル『表現者クライテリオン』",
     "name": "fuji_satoshi_channel_hyougensha_criterion",
     "is_group": true,
@@ -275,6 +372,7 @@
     "name": "fuji_satoshi",
     "organization": "藤井聡チャンネル『表現者クライテリオン』",
     "is_group": false,
+    "channel_exist": false,
     "official_website": ""
   },
   {
@@ -405,9 +503,19 @@
   },
   {
     "japanese_name": "石平",
-    "name": "sekihei",
+    "name": "seki_hei",
     "organization": "維新の会",
     "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "佐藤尊徳",
+    "name": "sato_sontoku",
+    "organization": "政経電論TV",
+    "image_url": "https://yt3.googleusercontent.com/Ytrud1Q32ROGmAbDVLuOu1GzyVUS51kzQqEz8uAua7VNe8m2X-nNq5Uj1Qaesqa6pQER2pkC-w=s160-c-k-c0x00ffffff-no-rj",
+    "is_group": false,
+    "channel_exist": false,
     "description": "",
     "official_website": ""
   },

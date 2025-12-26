@@ -16,7 +16,11 @@ with open('data/category_enumerations.json', 'r', encoding='utf-8') as f:
 
 with open('data/authors.json', 'r', encoding='utf-8') as f:
     authors_data = json.load(f)
-author_names = {a["japanese_name"] for a in authors_data if "japanese_name" in a}
+author_names = {
+    a["japanese_name"]
+    for a in authors_data
+    if "japanese_name" in a and a.get("channel_exist") is not False
+}
 
 invalid_urls = []
 unique_invalid_categories = []
