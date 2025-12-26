@@ -1,4 +1,5 @@
 import json
+from collections import defaultdict
 from collections import Counter
 
 with open('data/categories.json', 'r', encoding='utf-8') as f:
@@ -103,3 +104,48 @@ if unused_authors:
         print(f"  - {name}")
 else:
     print("authors.json の name はすべて channels.json の author から参照されています。")
+
+authors_by_name = defaultdict(list)
+
+for idx, a in enumerate(authors_data):
+    name = a.get("name")
+    if not name:
+        continue
+    authors_by_name[name].append((idx, a))
+
+duplicate_names = {name: rows for name, rows in authors_by_name.items() if len(rows) > 1}
+
+if duplicate_names:
+    print("authors.json に name の重複があります:\n")
+
+    for name, rows in duplicate_names.items():
+        print(f"■ name: {name}（{len(rows)}件）")
+
+        # 比較対象のキー（必要に応じて増やせる）
+        compare_keys = ["japanese_name", "is_group", "image_url", "alias_names"]
+
+        # 値を集める
+        values_by_key = {
+            key: {json.dumps(row[1].get(key), ensure_ascii=False) for row in rows}
+            for key in compare_keys
+        }
+
+        for idx, row in rows:
+            print(f"  - 行 {idx}:")
+            for key in compare_keys:
+                print(f"      {key}: {row.get(key)}")
+
+        # 差分チェック
+        diff_keys = [key for key, vals in values_by_key.items() if len(vals) > 1]
+
+        if diff_keys:
+            print("  ⚠️ 内容が一致していないキー:")
+            for key in diff_keys:
+                print(f"      - {key}")
+        else:
+            print("  ✓ 内容はすべて一致")
+
+        print()
+
+else:
+    print("authors.json に name の重複はありません。")
