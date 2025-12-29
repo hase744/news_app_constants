@@ -149,3 +149,55 @@ if duplicate_names:
 
 else:
     print("authors.json に name の重複はありません。")
+
+# ----------------------------
+# official_website / image_url の「Noneでない値」の重複チェックを追加
+# ----------------------------
+
+def normalize_url(value: str) -> str:
+    """
+    None/空は呼び出し元で除外する想定。
+    ここでは「末尾スラッシュ」「前後空白」を吸収する。
+    必要なら lower() も入れるが、URLはパスが大小区別され得るので慎重に。
+    """
+    v = value.strip()
+    # 末尾スラッシュを統一（"https://x.com/abc" と "https://x.com/abc/" を同一扱い）
+    if v.endswith("/"):
+        v = v[:-1]
+    return v
+
+def collect_duplicates(authors_data, field: str):
+    """
+    authors_data の field(official_website/image_url) の値が
+    Noneでなく、正規化後に重複しているものを集める。
+    """
+    values_map = defaultdict(list)  # {normalized_value: [(idx, author_obj), ...]}
+    for idx, a in enumerate(authors_data):
+        raw = a.get(field)
+        if raw is None:
+            continue
+        if isinstance(raw, str):
+            if raw.strip() == "":
+                continue
+            val = normalize_url(raw)
+        else:
+            # 文字列以外（想定外）が来たら除外するか、文字列化するかは好み
+            continue
+
+        values_map[val].append((idx, a))
+
+    duplicates = {val: rows for val, rows in values_map.items() if len(rows) > 1}
+    return duplicates
+
+for field in ["official_website", "image_url"]:
+    duplicates = collect_duplicates(authors_data, field)
+
+    if duplicates:
+        print(f"\nauthors.json に {field} の重複があります:\n")
+        for val, rows in duplicates.items():
+            print(f"■ {field}: {val}（{len(rows)}件）")
+            for idx, a in rows:
+                # 見やすいように name / japanese_name も表示
+                print(f"  - 行 {idx}: name={a.get('name')} japanese_name={a.get('japanese_name')}")
+    else:
+        print(f"\nauthors.json に {field} の重複はありません。")
