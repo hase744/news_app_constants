@@ -87,6 +87,7 @@
   {
     "japanese_name": "会田卓司",
     "name": "kaeda_takushi",
+    "image_url": "https://dol.ismcdn.jp/mwimgs/6/f/-/img_6fe6dee948a224b99b933007fa98d2cc98506.jpg",
     "alias_names": ["会田 卓司"],
     "channel_exist": false,
     "is_group": false
@@ -106,6 +107,50 @@
     "image_url": "https://www.zennoh-weekly.jp/wp/wp-content/uploads/2023/08/06-2.png",
     "is_group": false,
     "channel_exist": false
+  },
+  {
+    "japanese_name": "小澤健祐",
+    "name": "ozawa_kensuke",
+    "is_group": false,
+    "channel_exist": false,
+    "image_url": "https://thinkings.co.jp/wp-content/themes/thinkings009/assets/img/rethinking_organization_lab/fellow005/img.png",
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "塩野誠",
+    "name": "shiono_makoto",
+    "is_group": false,
+    "channel_exist": false,
+    "image_url": "https://instituteofgeoeconomics.org/wp-content/uploads/2025/03/13A_sio.webp",
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "大槻奈那",
+    "name": "otsuki_nana",
+    "is_group": false,
+    "channel_exist": false,
+    "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s11073.440x440.fill.jpg",
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "デービット・アトキンソン",
+    "name": "david_atkinson",
+    "is_group": false,
+    "channel_exist": false,
+    "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s2152.440x440.fill.jpg",
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "李英俊",
+    "name": "lee_youngjun",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
   },
   {
     "japanese_name": "室伏謙一",
@@ -165,6 +210,20 @@
     "is_group": false
   },
   {
+    "japanese_name": "高橋杉雄",
+    "name": "takahashi_sugio",
+    "alias_names": ["高橋 杉雄"],
+    "official_website": "https://kkbrain.co.jp/cms/wp-content/uploads/2023/02/takahashi-sugio.jpg",
+    "channel_exist": false,
+    "is_group": false
+  },
+  {
+    "japanese_name": "後藤達也",
+    "name": "goto_tatsuya",
+    "alias_names": ["後藤 達也"],
+    "is_group": false
+  },
+  {
     "japanese_name": "ユノキ帝国",
     "name": "yunoki_teikoku",
     "alias_names": ["ユノキ帝国"],
@@ -187,6 +246,38 @@
     "name": "aren_sama",
     "alias_names": ["アレン"],
     "image_url": "https://books.r10s.jp/fan/images/oshiraku-images/oshiraku_allen_1_A7_R_0347_82dfa9a406.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "櫻井武",
+    "name": "sakurai_takeshi",
+    "alias_names": ["櫻井 武"],
+    "image_url": "https://www.can-neuro.org/wp-content/uploads/2023/07/661550d738d7d39577b517ddbc7f5579.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "鈴木祐",
+    "name": "suzuki_yu",
+    "alias_names": ["鈴木 祐"],
+    "image_url": "https://m.media-amazon.com/images/S/amzn-author-media-prod/v30ufnjiv5obi1lh7gnrau8o1k._SX450_CR0%2C0%2C450%2C450_.jpg",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "太田光代",
+    "name": "ohta_mitsuyo",
+    "alias_names": ["太田 光代"],
+    "image_url": "https://www.sponichi.co.jp/entertainment/news/2025/01/10/jpeg/20250110s10041000248000p_view.webp",
+    "is_group": false,
+    "channel_exist": false
+  },
+  {
+    "japanese_name": "猪瀬直樹",
+    "name": "inose_naoki",
+    "alias_names": ["猪瀬直樹"],
+    "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_nxS76ZTGjmDDD7PrA0GE5bFCkNQPSlFgWd78UAThsdng=s160-c-k-c0x00ffffff-no-rj",
     "is_group": false,
     "channel_exist": false
   },
@@ -399,11 +490,19 @@
   },
   {
     "japanese_name": "豊田真由子",
-    "name": "toyota_mayuko ",
+    "name": "toyota_mayuko",
     "organization": "参政党",
     "image_url": "https://www.speakers.jp/wp-content/uploads/2023/02/toyota-mayuko-1.jpg",
     "alias_names": ["豊田 真由子"],
     "channel_exist": false,
+    "is_group": false
+  },
+  {
+    "japanese_name": "安藤裕",
+    "name": "ando_yu",
+    "organization": "参政党",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hiroshi_Ando.jpg",
+    "alias_names": ["安藤　裕"],
     "is_group": false
   },
   {
@@ -457,6 +556,7 @@
     "organization": "藤井聡チャンネル『表現者クライテリオン』",
     "is_group": false,
     "channel_exist": false,
+    "image_url": "https://koushihaken.nikkansports.com/uploads/2023/07/6ff6e17a286e584281de61d27d7beda9.webp",
     "official_website": ""
   },
   {
@@ -478,7 +578,7 @@
   {
     "japanese_name": "山口敬之",
     "alias_names": ["山口 敬之"],
-    "name": "yamaguchi_noriyuki ",
+    "name": "yamaguchi_noriyuki",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -695,10 +795,181 @@
     "official_website": ""
   },
   {
+    "japanese_name": "宮崎哲弥",
+    "alias_names": ["宮崎 哲弥"],
+    "name": "miyazaki_tetsuya",
+    "is_group": false,
+    "channel_exist": false,
+    "image_url": "https://www.shinchosha.co.jp/images_v2/writer/2932.jpg",
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "井川意高",
     "alias_names": ["井川 意高"],
     "name": "ikawa_mototaka",
     "organization": "政経電論TV",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "三浦瑠麗",
+    "alias_names": ["三浦 瑠麗"],
+    "name": "miura_lully",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "エミン・ユルマズ",
+    "alias_names": ["エミン ユルマズ", "エミンユルマズ"],
+    "name": "emin_yurumazu",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "河村真木子",
+    "alias_names": ["河村 真木子"],
+    "name": "kawamura_makiko",
+    "image_url": "https://m.media-amazon.com/images/I/61bydwG5mFL._SY522_.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "坂井風太",
+    "alias_names": ["坂井 風太"],
+    "name": "sakai_futa",
+    "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s11212.440x440.fill.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "中室牧子",
+    "alias_names": ["中室 牧子"],
+    "name": "nakamuro_makiko",
+    "image_url": "https://pbs.twimg.com/profile_images/1293454895501078528/cjoMxyN7_400x400.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "片山晃",
+    "alias_names": ["片山 晃"],
+    "name": "katayama_akira",
+    "image_url": "https://dol.ismcdn.jp/mwimgs/7/1/300/img_71c3fc7b14ddd581d533722b4fd1c73e408581.jpg",
+    "channel_exist": false,
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "田中修治",
+    "alias_names": ["田中 修治"],
+    "name": "tanaka_shuji",
+    "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s10832.440x440.fill.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "田内学",
+    "alias_names": ["田内 学"],
+    "name": "tauchi_manabu",
+    "image_url": "https://www.c-rays.co.jp/images/img_prof_tauchi.webp",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "鈴木一人",
+    "alias_names": ["鈴木 一人"],
+    "name": "suzuki_kazuto",
+    "image_url": "https://instituteofgeoeconomics.org/wp-content/uploads/2024/07/鈴木さん.webp",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "小泉悠",
+    "alias_names": ["小泉 悠"],
+    "name": "koizumi_yu",
+    "image_url": "https://www.spf.org/iina/global-data/user30/20240904162621845.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "篠田尚子",
+    "alias_names": ["篠田 尚子"],
+    "name": "shinoda_naoko",
+    "image_url": "https://jbpress.ismedia.jp/mwimgs/b/8/-/img_b87b65f9cee7828c62150882c03f16b9268909.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "楠木建",
+    "alias_names": ["楠木 建"],
+    "name": "kusunoki_takeru",
+    "image_url": "https://kkbrain.co.jp/cms/wp-content/uploads/2019/07/kusunoki-ken.jpg",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "辻田真佐憲",
+    "alias_names": ["辻田 真佐憲"],
+    "name": "tsujita_masanori",
+    "image_url": "https://yt3.googleusercontent.com/qEKV7jmBhMl5gnakfVHiIBI-lBMGWog1u2uqohTgNCci0_8ZfQJl1HVLiWjkwpqKQ7Ij-e7mpQ=s160-c-k-c0x00ffffff-no-rj",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "馬渕磨理子",
+    "alias_names": ["馬渕 磨理子"],
+    "name": "mabuchi_mariko",
+    "image_url": "https://dol.ismcdn.jp/mwimgs/1/e/-/img_1ecd709f23d748c1d7b330cc4fa6fd13243737.jpg",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "永濱利廣",
+    "alias_names": ["永濱 利廣"],
+    "name": "nagahama_toshihiro",
+    "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s10887.440x440.fill.jpg",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ゆとりくん",
+    "name": "yutorikun",
+    "image_url": "https://pbs.twimg.com/profile_images/1728695157103726592/aAss7gpE_400x400.jpg",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "小澤隆生",
+    "alias_names": ["小澤 隆生"],
+    "name": "ozawa_takao",
+    "image_url": "https://images.microcms-assets.io/assets/1a050ff607a8466f90410e0b1991ebb5/fd50f0f6a73842d7b8c2374f24394bb3/G1V_5部G_小澤隆生(600×800).png",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -793,6 +1064,15 @@
     "official_website": ""
   },
   {
+    "japanese_name": "株本祐己",
+    "alias_names": ["株本 祐己"],
+    "name": "kabumoto_yuki",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "友村晋",
     "alias_names": ["友村 晋"],
     "name": "tomomura_shin",
@@ -825,7 +1105,7 @@
   {
     "japanese_name": "木下勝寿",
     "alias_names": ["木下 勝寿"],
-    "name": "kinoshita_katsuhisa ",
+    "name": "kinoshita_katsuhisa",
     "is_group": false,
     "channel_exist": false,
     "description": "",
@@ -892,9 +1172,53 @@
     "official_website": ""
   },
   {
+    "japanese_name": "国際政治ch",
+    "name": "kokusai_seiji_ch",
+    "is_group": true,
+    "description": "",
+    "official_website": ""
+  },
+  {
     "japanese_name": "大河内薫",
     "alias_names": ["大河 内薫"],
     "name": "okochi_kaoru",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "井上ヨウスケ",
+    "alias_names": ["井上 ヨウスケ"],
+    "name": "inoue_yousuke",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "りょう校長",
+    "alias_names": ["雨谷亮", "雨谷 亮"],
+    "name": "ryo_kouchou",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "Kentaro.",
+    "name": "kentaro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "コムたろ",
+    "name": "komutaro",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "三好FA",
+    "name": "miyoshi_fa",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -909,6 +1233,13 @@
   {
     "japanese_name": "両学長",
     "name": "ryogakucho",
+    "is_group": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "ふゆこ",
+    "name": "fuyuko",
     "is_group": false,
     "description": "",
     "official_website": ""
@@ -963,15 +1294,6 @@
     "official_website": ""
   },
   {
-    "japanese_name": "中野優作",
-    "name": "nakano_yuusaku",
-    "is_group": false,
-    "channel_exist": false,
-    "image_url": "https://the-neutral.jp/wp-content/themes/theneutral/img/top/fv_image01.jpg",
-    "description": "",
-    "official_website": ""
-  },
-  {
     "japanese_name": "西野亮廣",
     "name": "nishino_akihiro",
     "is_group": false,
@@ -979,10 +1301,11 @@
     "official_website": ""
   },
   {
-    "japanese_name": "李英俊",
-    "name": "lee_youngjun",
+    "japanese_name": "中野優作",
+    "name": "nakano_yuusaku",
     "is_group": false,
     "channel_exist": false,
+    "image_url": "https://the-neutral.jp/wp-content/themes/theneutral/img/top/fv_image01.jpg",
     "description": "",
     "official_website": ""
   },
@@ -1094,6 +1417,16 @@
     "is_group": true
   },
   {
+    "japanese_name": "ダイヤモンド社 THE BOOKS",
+    "name": "diamond_the_books",
+    "is_group": true
+  },
+  {
+    "japanese_name": "ピクテ・ジャパン株式会社",
+    "name": "pictet_japan",
+    "is_group": true
+  },
+  {
     "japanese_name": "Mindset Coaching Academy",
     "name": "mindset_coaching_academy",
     "regulars": ["李英俊"],
@@ -1143,6 +1476,11 @@
   {
     "japanese_name": "内定チャンネル",
     "name": "naitei_channel",
+    "is_group": true
+  },
+  {
+    "japanese_name": "年収チャンネル",
+    "name": "nensyu_channel",
     "is_group": true
   },
   {
