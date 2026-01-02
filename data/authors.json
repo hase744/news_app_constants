@@ -954,6 +954,7 @@
     "name": "nagahama_toshihiro",
     "image_url": "https://www.jmca.jp/cache/images/upload/teacher/s10887.440x440.fill.jpg",
     "is_group": false,
+    "channel_exist": false,
     "description": "",
     "official_website": ""
   },
@@ -970,6 +971,16 @@
     "alias_names": ["小澤 隆生"],
     "name": "ozawa_takao",
     "image_url": "https://images.microcms-assets.io/assets/1a050ff607a8466f90410e0b1991ebb5/fd50f0f6a73842d7b8c2374f24394bb3/G1V_5部G_小澤隆生(600×800).png",
+    "is_group": false,
+    "channel_exist": false,
+    "description": "",
+    "official_website": ""
+  },
+  {
+    "japanese_name": "藤野英人",
+    "alias_names": ["藤野 英人"],
+    "name": "fujino_hideto",
+    "image_url": "https://necchu-shogakkou.com/wp-content/uploads/2021/02/fujino1-1-scaled.jpg",
     "is_group": false,
     "description": "",
     "official_website": ""
